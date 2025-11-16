@@ -1,0 +1,1663 @@
+modules/cite_functions/__init__.py:15:1: W293 blank line contains whitespace
+modules/cite_functions/__init__.py:25:80: E501 line too long (90 > 79 characters)
+modules/cite_functions/__init__.py:36:80: E501 line too long (80 > 79 characters)
+modules/cite_functions/__init__.py:42:80: E501 line too long (81 > 79 characters)
+modules/cite_functions/__init__.py:48:80: E501 line too long (80 > 79 characters)
+modules/cite_functions/__init__.py:50:80: E501 line too long (80 > 79 characters)
+modules/cite_functions/functions.py:19:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:20:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:21:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:22:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:23:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:24:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:25:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:26:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:27:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:28:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:29:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:30:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:34:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:35:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:36:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:37:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:41:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:42:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:43:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:47:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:47:80: E501 line too long (94 > 79 characters)
+modules/cite_functions/functions.py:48:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:49:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:50:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:51:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:52:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:53:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:54:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:55:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:56:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:57:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:58:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:59:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:60:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:61:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:65:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:67:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:68:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:69:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:70:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:71:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:72:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:72:80: E501 line too long (114 > 79 characters)
+modules/cite_functions/functions.py:73:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:75:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:76:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:78:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:80:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:81:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:82:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:82:80: E501 line too long (142 > 79 characters)
+modules/cite_functions/functions.py:84:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:84:80: E501 line too long (94 > 79 characters)
+modules/cite_functions/functions.py:86:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:88:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:89:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:90:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:91:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:92:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:93:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:94:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:95:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:96:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:97:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:98:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:99:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:103:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:105:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:106:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:107:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:108:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:109:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:110:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:111:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:112:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:113:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:114:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:116:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:117:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:119:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:119:80: E501 line too long (93 > 79 characters)
+modules/cite_functions/functions.py:120:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:122:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:123:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:125:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:126:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:128:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:129:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:130:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:131:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:132:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:133:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:134:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:135:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:136:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:137:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:138:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:139:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:143:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:144:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:145:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:146:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:147:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:148:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:149:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:150:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:151:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:152:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:153:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:154:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:155:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:155:80: E501 line too long (86 > 79 characters)
+modules/cite_functions/functions.py:156:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:157:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:158:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:162:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:163:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:163:2: F841 local variable 'ns' is assigned to but never used
+modules/cite_functions/functions.py:164:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:165:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:167:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:168:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:169:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:170:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:172:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:173:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:175:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:176:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:178:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:179:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:180:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:182:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:183:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:184:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:185:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:186:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:187:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:189:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:191:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:192:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:193:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:194:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:195:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:196:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:197:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:198:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:199:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:200:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:201:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:202:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:206:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:208:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:209:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:210:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:211:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:212:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:213:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:214:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:215:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:215:80: E501 line too long (86 > 79 characters)
+modules/cite_functions/functions.py:216:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:217:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:217:80: E501 line too long (84 > 79 characters)
+modules/cite_functions/functions.py:218:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:219:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:220:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:221:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:222:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:223:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:224:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:225:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:226:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:227:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:228:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:229:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:233:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:233:80: E501 line too long (107 > 79 characters)
+modules/cite_functions/functions.py:234:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:235:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:236:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:237:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:238:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:239:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:240:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:241:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:242:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:243:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:244:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:245:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:246:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:247:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:250:80: E501 line too long (84 > 79 characters)
+modules/cite_functions/functions.py:251:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:253:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:253:80: E501 line too long (122 > 79 characters)
+modules/cite_functions/functions.py:254:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:255:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:256:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:257:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:258:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:259:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:260:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:261:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:262:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:263:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:264:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:265:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:266:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:267:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:268:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:269:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:270:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:271:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:272:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:273:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:274:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:275:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:278:80: E501 line too long (81 > 79 characters)
+modules/cite_functions/functions.py:279:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:279:80: E501 line too long (111 > 79 characters)
+modules/cite_functions/functions.py:281:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:281:80: E501 line too long (85 > 79 characters)
+modules/cite_functions/functions.py:282:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:283:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:284:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:285:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:286:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:287:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:288:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:288:80: E501 line too long (89 > 79 characters)
+modules/cite_functions/functions.py:289:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:290:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:291:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:292:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:293:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:294:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:295:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:296:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:297:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:298:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:299:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:300:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:301:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:302:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:306:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:307:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:308:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:309:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:310:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:311:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:312:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:313:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:314:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:315:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:316:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:317:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:318:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:319:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:320:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:324:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:325:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:326:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:327:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:328:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:329:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:330:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:331:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:332:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:333:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:334:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:335:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:336:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:337:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:338:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:342:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:344:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:345:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:346:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:347:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:348:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:349:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:350:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:351:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:352:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:353:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:354:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:355:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:356:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:357:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:358:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:359:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:360:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:361:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:362:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:362:80: E501 line too long (82 > 79 characters)
+modules/cite_functions/functions.py:363:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:364:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:365:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:366:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:370:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:372:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:373:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:374:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:374:80: E501 line too long (176 > 79 characters)
+modules/cite_functions/functions.py:375:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:376:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:377:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:378:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:379:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:379:80: E501 line too long (90 > 79 characters)
+modules/cite_functions/functions.py:380:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:381:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:382:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:383:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:387:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:389:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:390:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:391:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:392:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:393:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:394:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:395:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:396:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:397:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:398:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:399:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:400:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:402:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:403:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:405:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:406:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:406:80: E501 line too long (121 > 79 characters)
+modules/cite_functions/functions.py:408:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:409:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:410:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:410:80: E501 line too long (119 > 79 characters)
+modules/cite_functions/functions.py:412:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:413:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:414:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:415:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:417:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:418:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:418:80: E501 line too long (125 > 79 characters)
+modules/cite_functions/functions.py:419:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:419:80: E501 line too long (139 > 79 characters)
+modules/cite_functions/functions.py:420:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:420:80: E501 line too long (91 > 79 characters)
+modules/cite_functions/functions.py:421:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:423:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:424:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:425:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:426:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:427:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:428:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:429:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:430:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:431:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:432:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:434:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:435:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:436:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:436:80: E501 line too long (98 > 79 characters)
+modules/cite_functions/functions.py:437:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:437:80: E501 line too long (101 > 79 characters)
+modules/cite_functions/functions.py:439:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:440:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:440:80: E501 line too long (157 > 79 characters)
+modules/cite_functions/functions.py:442:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:443:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:444:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:445:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:446:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:447:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:448:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:449:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:450:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:451:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:452:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:453:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:455:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:457:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:458:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:459:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:459:3: F841 local variable 'primary' is assigned to but never used
+modules/cite_functions/functions.py:459:80: E501 line too long (91 > 79 characters)
+modules/cite_functions/functions.py:461:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:461:80: E501 line too long (99 > 79 characters)
+modules/cite_functions/functions.py:462:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:462:80: E501 line too long (92 > 79 characters)
+modules/cite_functions/functions.py:463:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:464:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:465:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:466:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:467:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:468:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:469:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:470:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:471:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:472:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:473:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:474:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:475:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:476:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:477:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:478:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:479:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:480:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:481:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:483:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:484:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:485:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:486:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:487:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:488:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:490:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:491:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:492:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:493:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:495:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:495:80: E501 line too long (111 > 79 characters)
+modules/cite_functions/functions.py:497:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:498:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:499:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:499:80: E501 line too long (120 > 79 characters)
+modules/cite_functions/functions.py:503:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:504:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:504:80: E501 line too long (122 > 79 characters)
+modules/cite_functions/functions.py:505:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:506:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:507:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:508:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:509:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:509:80: E501 line too long (101 > 79 characters)
+modules/cite_functions/functions.py:510:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:511:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:512:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:513:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:517:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:518:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:518:80: E501 line too long (120 > 79 characters)
+modules/cite_functions/functions.py:519:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:520:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:521:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:522:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:523:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:523:80: E501 line too long (100 > 79 characters)
+modules/cite_functions/functions.py:524:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:525:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:526:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:527:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:531:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:532:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:533:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:534:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:535:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:536:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:537:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:538:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:540:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:541:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:542:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:543:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:543:80: E501 line too long (121 > 79 characters)
+modules/cite_functions/functions.py:545:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:546:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:547:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:547:80: E501 line too long (119 > 79 characters)
+modules/cite_functions/functions.py:549:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:550:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:551:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:553:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:554:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:555:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:556:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:557:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:559:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:560:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:561:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:562:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:563:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:564:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:565:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:567:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:568:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:569:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:570:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:571:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:572:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:573:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:573:80: E501 line too long (112 > 79 characters)
+modules/cite_functions/functions.py:574:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:575:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:576:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:576:80: E501 line too long (120 > 79 characters)
+modules/cite_functions/functions.py:580:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:581:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:582:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:583:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:584:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:585:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:586:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:587:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:589:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:590:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:591:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:592:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:592:80: E501 line too long (121 > 79 characters)
+modules/cite_functions/functions.py:594:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:595:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:596:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:596:80: E501 line too long (119 > 79 characters)
+modules/cite_functions/functions.py:598:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:599:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:600:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:601:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:602:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:604:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:605:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:607:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:608:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:609:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:609:80: E501 line too long (83 > 79 characters)
+modules/cite_functions/functions.py:611:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:612:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:613:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:615:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:616:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:617:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:618:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:619:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:620:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:621:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:623:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:624:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:625:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:626:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:627:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:628:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:629:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:629:80: E501 line too long (112 > 79 characters)
+modules/cite_functions/functions.py:630:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:631:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:632:1: W191 indentation contains tabs
+modules/cite_functions/functions.py:632:80: E501 line too long (120 > 79 characters)
+modules/cite_functions/functions.py:634:1: W391 blank line at end of file
+modules/search_functions/__init__.py:16:1: W293 blank line contains whitespace
+modules/search_functions/__init__.py:24:80: E501 line too long (92 > 79 characters)
+modules/search_functions/functions.py:20:80: E501 line too long (90 > 79 characters)
+modules/search_functions/functions.py:22:80: E501 line too long (81 > 79 characters)
+modules/search_functions/functions.py:26:80: E501 line too long (96 > 79 characters)
+modules/search_functions/functions.py:68:80: E501 line too long (142 > 79 characters)
+modules/search_functions/functions.py:92:80: E501 line too long (94 > 79 characters)
+modules/search_functions/functions.py:109:80: E501 line too long (102 > 79 characters)
+modules/search_functions/functions.py:122:80: E501 line too long (85 > 79 characters)
+modules/search_functions/functions.py:125:80: E501 line too long (116 > 79 characters)
+modules/search_functions/functions.py:127:5: F841 local variable 'e' is assigned to but never used
+modules/search_functions/functions.py:129:80: E501 line too long (126 > 79 characters)
+modules/template_functions.py:3:80: E501 line too long (82 > 79 characters)
+modules/template_functions.py:9:80: E501 line too long (80 > 79 characters)
+modules/template_functions.py:13:80: E501 line too long (96 > 79 characters)
+modules/template_functions.py:22:1: W293 blank line contains whitespace
+modules/template_functions.py:27:1: W293 blank line contains whitespace
+modules/template_functions.py:28:80: E501 line too long (82 > 79 characters)
+modules/template_functions.py:34:80: E501 line too long (82 > 79 characters)
+modules/template_functions.py:39:1: W293 blank line contains whitespace
+modules/template_functions.py:43:80: E501 line too long (80 > 79 characters)
+modules/test_functions/__init__.py:16:1: W293 blank line contains whitespace
+modules/test_functions/__init__.py:21:1: W293 blank line contains whitespace
+modules/test_functions/__init__.py:27:1: W293 blank line contains whitespace
+modules/test_functions/functions.py:5:1: F401 'json' imported but unused
+modules/test_functions/functions.py:31:80: E501 line too long (86 > 79 characters)
+modules/test_functions/functions.py:32:80: E501 line too long (83 > 79 characters)
+modules/test_functions/functions.py:35:80: E501 line too long (154 > 79 characters)
+modules/test_functions/functions.py:39:1: W391 blank line at end of file
+utils/logger.py:7:1: F401 'datetime.datetime' imported but unused
+utils/logger.py:13:1: W293 blank line contains whitespace
+utils/logger.py:17:1: W293 blank line contains whitespace
+utils/logger.py:21:1: W293 blank line contains whitespace
+utils/logger.py:26:1: W293 blank line contains whitespace
+utils/logger.py:34:1: W293 blank line contains whitespace
+utils/logger.py:40:1: W293 blank line contains whitespace
+utils/logger.py:41:80: E501 line too long (108 > 79 characters)
+utils/logger.py:48:1: W293 blank line contains whitespace
+utils/logger.py:54:1: W293 blank line contains whitespace
+utils/logger.py:65:1: W293 blank line contains whitespace
+utils/logger.py:67:80: E501 line too long (80 > 79 characters)
+utils/logger.py:68:1: W293 blank line contains whitespace
+70    E501 line too long (90 > 79 characters)
+2     F401 'json' imported but unused
+3     F841 local variable 'ns' is assigned to but never used
+498   W191 indentation contains tabs
+18    W293 blank line contains whitespace
+2     W391 blank line at end of file
+[1mmodules/cite_functions/__init__.py[m[36m:[m27[36m:[m80[36m:[m [1m[31mE501[m line too long (90 > 79 characters)
+[1mmodules/cite_functions/__init__.py[m[36m:[m38[36m:[m80[36m:[m [1m[31mE501[m line too long (80 > 79 characters)
+[1mmodules/cite_functions/__init__.py[m[36m:[m44[36m:[m80[36m:[m [1m[31mE501[m line too long (81 > 79 characters)
+[1mmodules/cite_functions/__init__.py[m[36m:[m50[36m:[m80[36m:[m [1m[31mE501[m line too long (80 > 79 characters)
+[1mmodules/cite_functions/__init__.py[m[36m:[m52[36m:[m80[36m:[m [1m[31mE501[m line too long (80 > 79 characters)
+[1mmodules/cite_functions/functions.py[m[36m:[m50[36m:[m80[36m:[m [1m[31mE501[m line too long (97 > 79 characters)
+[1mmodules/cite_functions/functions.py[m[36m:[m75[36m:[m80[36m:[m [1m[31mE501[m line too long (120 > 79 characters)
+[1mmodules/cite_functions/functions.py[m[36m:[m86[36m:[m80[36m:[m [1m[31mE501[m line too long (83 > 79 characters)
+[1mmodules/cite_functions/functions.py[m[36m:[m92[36m:[m80[36m:[m [1m[31mE501[m line too long (88 > 79 characters)
+[1mmodules/cite_functions/functions.py[m[36m:[m128[36m:[m80[36m:[m [1m[31mE501[m line too long (96 > 79 characters)
+[1mmodules/cite_functions/functions.py[m[36m:[m174[36m:[m5[36m:[m [1m[31mF841[m local variable 'ns' is assigned to but never used
+[1mmodules/cite_functions/functions.py[m[36m:[m231[36m:[m80[36m:[m [1m[31mE501[m line too long (84 > 79 characters)
+[1mmodules/cite_functions/functions.py[m[36m:[m237[36m:[m80[36m:[m [1m[31mE501[m line too long (85 > 79 characters)
+[1mmodules/cite_functions/functions.py[m[36m:[m248[36m:[m80[36m:[m [1m[31mE501[m line too long (110 > 79 characters)
+[1mmodules/cite_functions/functions.py[m[36m:[m265[36m:[m80[36m:[m [1m[31mE501[m line too long (84 > 79 characters)
+[1mmodules/cite_functions/functions.py[m[36m:[m268[36m:[m80[36m:[m [1m[31mE501[m line too long (125 > 79 characters)
+[1mmodules/cite_functions/functions.py[m[36m:[m293[36m:[m80[36m:[m [1m[31mE501[m line too long (81 > 79 characters)
+[1mmodules/cite_functions/functions.py[m[36m:[m294[36m:[m80[36m:[m [1m[31mE501[m line too long (114 > 79 characters)
+[1mmodules/cite_functions/functions.py[m[36m:[m296[36m:[m80[36m:[m [1m[31mE501[m line too long (88 > 79 characters)
+[1mmodules/cite_functions/functions.py[m[36m:[m303[36m:[m80[36m:[m [1m[31mE501[m line too long (92 > 79 characters)
+[1mmodules/cite_functions/functions.py[m[36m:[m307[36m:[m80[36m:[m [1m[31mE501[m line too long (88 > 79 characters)
+[1mmodules/cite_functions/functions.py[m[36m:[m369[36m:[m80[36m:[m [1m[31mE501[m line too long (82 > 79 characters)
+[1mmodules/cite_functions/functions.py[m[36m:[m377[36m:[m80[36m:[m [1m[31mE501[m line too long (88 > 79 characters)
+[1mmodules/cite_functions/functions.py[m[36m:[m389[36m:[m80[36m:[m [1m[31mE501[m line too long (179 > 79 characters)
+[1mmodules/cite_functions/functions.py[m[36m:[m395[36m:[m80[36m:[m [1m[31mE501[m line too long (87 > 79 characters)
+[1mmodules/cite_functions/functions.py[m[36m:[m404[36m:[m80[36m:[m [1m[31mE501[m line too long (82 > 79 characters)
+[1mmodules/cite_functions/functions.py[m[36m:[m444[36m:[m80[36m:[m [1m[31mE501[m line too long (88 > 79 characters)
+[1mmodules/cite_functions/functions.py[m[36m:[m467[36m:[m80[36m:[m [1m[31mE501[m line too long (82 > 79 characters)
+[1mmodules/cite_functions/functions.py[m[36m:[m482[36m:[m80[36m:[m [1m[31mE501[m line too long (81 > 79 characters)
+[1mmodules/cite_functions/functions.py[m[36m:[m486[36m:[m80[36m:[m [1m[31mE501[m line too long (88 > 79 characters)
+[1mmodules/cite_functions/functions.py[m[36m:[m515[36m:[m80[36m:[m [1m[31mE501[m line too long (81 > 79 characters)
+[1mmodules/cite_functions/functions.py[m[36m:[m519[36m:[m9[36m:[m [1m[31mF841[m local variable 'primary' is assigned to but never used
+[1mmodules/cite_functions/functions.py[m[36m:[m520[36m:[m80[36m:[m [1m[31mE501[m line too long (86 > 79 characters)
+[1mmodules/cite_functions/functions.py[m[36m:[m523[36m:[m80[36m:[m [1m[31mE501[m line too long (105 > 79 characters)
+[1mmodules/cite_functions/functions.py[m[36m:[m576[36m:[m80[36m:[m [1m[31mE501[m line too long (125 > 79 characters)
+[1mmodules/cite_functions/functions.py[m[36m:[m582[36m:[m80[36m:[m [1m[31mE501[m line too long (98 > 79 characters)
+[1mmodules/cite_functions/functions.py[m[36m:[m592[36m:[m80[36m:[m [1m[31mE501[m line too long (123 > 79 characters)
+[1mmodules/cite_functions/functions.py[m[36m:[m598[36m:[m80[36m:[m [1m[31mE501[m line too long (97 > 79 characters)
+[1mmodules/cite_functions/functions.py[m[36m:[m635[36m:[m80[36m:[m [1m[31mE501[m line too long (81 > 79 characters)
+[1mmodules/cite_functions/functions.py[m[36m:[m646[36m:[m80[36m:[m [1m[31mE501[m line too long (82 > 79 characters)
+[1mmodules/cite_functions/functions.py[m[36m:[m712[36m:[m80[36m:[m [1m[31mE501[m line too long (80 > 79 characters)
+[1mmodules/cite_functions/functions.py[m[36m:[m714[36m:[m80[36m:[m [1m[31mE501[m line too long (81 > 79 characters)
+[1mmodules/cite_functions/functions.py[m[36m:[m724[36m:[m80[36m:[m [1m[31mE501[m line too long (82 > 79 characters)
+[1mmodules/communityDetection/__init__.py[m[36m:[m1[36m:[m1[36m:[m [1m[31mF401[m 'typing.Any' imported but unused
+[1mmodules/communityDetection/__init__.py[m[36m:[m11[36m:[m80[36m:[m [1m[31mE501[m line too long (91 > 79 characters)
+[1mmodules/communityDetection/__init__.py[m[36m:[m25[36m:[m80[36m:[m [1m[31mE501[m line too long (84 > 79 characters)
+[1mmodules/communityDetection/__init__.py[m[36m:[m26[36m:[m80[36m:[m [1m[31mE501[m line too long (158 > 79 characters)
+[1mmodules/communityDetection/functions.py[m[36m:[m73[36m:[m80[36m:[m [1m[31mE501[m line too long (90 > 79 characters)
+[1mmodules/communityDetection/functions.py[m[36m:[m84[36m:[m80[36m:[m [1m[31mE501[m line too long (193 > 79 characters)
+[1mmodules/communityDetection/functions.py[m[36m:[m105[36m:[m80[36m:[m [1m[31mE501[m line too long (168 > 79 characters)
+[1mmodules/communityDetection/functions.py[m[36m:[m144[36m:[m80[36m:[m [1m[31mE501[m line too long (228 > 79 characters)
+[1mmodules/communityDetection/functions.py[m[36m:[m149[36m:[m80[36m:[m [1m[31mE501[m line too long (154 > 79 characters)
+[1mmodules/process_functions/__init__.py[m[36m:[m23[36m:[m80[36m:[m [1m[31mE501[m line too long (89 > 79 characters)
+[1mmodules/process_functions/__init__.py[m[36m:[m33[36m:[m80[36m:[m [1m[31mE501[m line too long (85 > 79 characters)
+[1mmodules/process_functions/__init__.py[m[36m:[m40[36m:[m80[36m:[m [1m[31mE501[m line too long (80 > 79 characters)
+[1mmodules/process_functions/__init__.py[m[36m:[m41[36m:[m80[36m:[m [1m[31mE501[m line too long (208 > 79 characters)
+[1mmodules/process_functions/__init__.py[m[36m:[m48[36m:[m80[36m:[m [1m[31mE501[m line too long (85 > 79 characters)
+[1mmodules/process_functions/__init__.py[m[36m:[m56[36m:[m80[36m:[m [1m[31mE501[m line too long (208 > 79 characters)
+[1mmodules/process_functions/__init__.py[m[36m:[m61[36m:[m1[36m:[m [1m[31mF401[m '.functions.getReferences' imported but unused
+[1mmodules/process_functions/__init__.py[m[36m:[m61[36m:[m1[36m:[m [1m[31mF401[m '.functions.getCitating' imported but unused
+[1mmodules/process_functions/__init__.py[m[36m:[m61[36m:[m1[36m:[m [1m[31mE305[m expected 2 blank lines after class or function definition, found 0
+[1mmodules/process_functions/__init__.py[m[36m:[m61[36m:[m1[36m:[m [1m[31mE402[m module level import not at top of file
+[1mmodules/process_functions/__init__.py[m[36m:[m62[36m:[m1[36m:[m [1m[31mE402[m module level import not at top of file
+[1mmodules/process_functions/__init__.py[m[36m:[m63[36m:[m1[36m:[m [1m[31mE402[m module level import not at top of file
+[1mmodules/process_functions/__init__.py[m[36m:[m67[36m:[m1[36m:[m [1m[31mF811[m redefinition of unused 'register_routes' from line 17
+[1mmodules/process_functions/__init__.py[m[36m:[m67[36m:[m1[36m:[m [1m[31mE302[m expected 2 blank lines, found 1
+[1mmodules/process_functions/__init__.py[m[36m:[m70[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mmodules/process_functions/__init__.py[m[36m:[m75[36m:[m1[36m:[m [1m[31mE305[m expected 2 blank lines after class or function definition, found 0
+[1mmodules/process_functions/__init__.py[m[36m:[m82[36m:[m1[36m:[m [1m[31mE402[m module level import not at top of file
+[1mmodules/process_functions/__init__.py[m[36m:[m83[36m:[m1[36m:[m [1m[31mE402[m module level import not at top of file
+[1mmodules/process_functions/__init__.py[m[36m:[m86[36m:[m1[36m:[m [1m[31mF811[m redefinition of unused '_impl' from line 12
+[1mmodules/process_functions/__init__.py[m[36m:[m86[36m:[m1[36m:[m [1m[31mE402[m module level import not at top of file
+[1mmodules/process_functions/__init__.py[m[36m:[m91[36m:[m1[36m:[m [1m[31mF811[m redefinition of unused 'register_routes' from line 67
+[1mmodules/process_functions/__init__.py[m[36m:[m95[36m:[m80[36m:[m [1m[31mE501[m line too long (84 > 79 characters)
+[1mmodules/process_functions/__init__.py[m[36m:[m96[36m:[m80[36m:[m [1m[31mE501[m line too long (81 > 79 characters)
+[1mmodules/process_functions/__init__.py[m[36m:[m116[36m:[m5[36m:[m [1m[31mE303[m too many blank lines (3)
+[1mmodules/process_functions/__init__.py[m[36m:[m116[36m:[m65[36m:[m [1m[31mW291[m trailing whitespace
+[1mmodules/process_functions/__init__.py[m[36m:[m116[36m:[m69[36m:[m [1m[31mW292[m no newline at end of file
+[1mmodules/process_functions/functions.py[m[36m:[m3[36m:[m80[36m:[m [1m[31mE501[m line too long (114 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m9[36m:[m80[36m:[m [1m[31mE501[m line too long (82 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m11[36m:[m80[36m:[m [1m[31mE501[m line too long (101 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m12[36m:[m80[36m:[m [1m[31mE501[m line too long (96 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m19[36m:[m80[36m:[m [1m[31mE501[m line too long (84 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m30[36m:[m1[36m:[m [1m[31mF401[m 'datetime.datetime' imported but unused
+[1mmodules/process_functions/functions.py[m[36m:[m34[36m:[m80[36m:[m [1m[31mE501[m line too long (90 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m49[36m:[m1[36m:[m [1m[31mE302[m expected 2 blank lines, found 1
+[1mmodules/process_functions/functions.py[m[36m:[m78[36m:[m80[36m:[m [1m[31mE501[m line too long (83 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m79[36m:[m80[36m:[m [1m[31mE501[m line too long (153 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m81[36m:[m80[36m:[m [1m[31mE501[m line too long (89 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m83[36m:[m80[36m:[m [1m[31mE501[m line too long (98 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m84[36m:[m80[36m:[m [1m[31mE501[m line too long (105 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m89[36m:[m66[36m:[m [1m[31mE201[m whitespace after '('
+[1mmodules/process_functions/functions.py[m[36m:[m89[36m:[m77[36m:[m [1m[31mE231[m missing whitespace after ','
+[1mmodules/process_functions/functions.py[m[36m:[m89[36m:[m80[36m:[m [1m[31mE501[m line too long (97 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m90[36m:[m68[36m:[m [1m[31mE201[m whitespace after '('
+[1mmodules/process_functions/functions.py[m[36m:[m90[36m:[m80[36m:[m [1m[31mE501[m line too long (102 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m90[36m:[m81[36m:[m [1m[31mE231[m missing whitespace after ','
+[1mmodules/process_functions/functions.py[m[36m:[m93[36m:[m80[36m:[m [1m[31mE501[m line too long (80 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m95[36m:[m80[36m:[m [1m[31mE501[m line too long (107 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m96[36m:[m80[36m:[m [1m[31mE501[m line too long (98 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m97[36m:[m80[36m:[m [1m[31mE501[m line too long (93 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m99[36m:[m80[36m:[m [1m[31mE501[m line too long (131 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m100[36m:[m80[36m:[m [1m[31mE501[m line too long (92 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m101[36m:[m80[36m:[m [1m[31mE501[m line too long (107 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m105[36m:[m80[36m:[m [1m[31mE501[m line too long (101 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m127[36m:[m80[36m:[m [1m[31mE501[m line too long (84 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m130[36m:[m80[36m:[m [1m[31mE501[m line too long (93 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m131[36m:[m80[36m:[m [1m[31mE501[m line too long (88 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m138[36m:[m80[36m:[m [1m[31mE501[m line too long (92 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m139[36m:[m80[36m:[m [1m[31mE501[m line too long (143 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m142[36m:[m80[36m:[m [1m[31mE501[m line too long (98 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m143[36m:[m80[36m:[m [1m[31mE501[m line too long (131 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m148[36m:[m80[36m:[m [1m[31mE501[m line too long (91 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m173[36m:[m80[36m:[m [1m[31mE501[m line too long (102 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m178[36m:[m80[36m:[m [1m[31mE501[m line too long (96 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m193[36m:[m80[36m:[m [1m[31mE501[m line too long (123 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m197[36m:[m80[36m:[m [1m[31mE501[m line too long (106 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m198[36m:[m80[36m:[m [1m[31mE501[m line too long (92 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m203[36m:[m80[36m:[m [1m[31mE501[m line too long (99 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m204[36m:[m80[36m:[m [1m[31mE501[m line too long (92 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m205[36m:[m80[36m:[m [1m[31mE501[m line too long (83 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m211[36m:[m80[36m:[m [1m[31mE501[m line too long (81 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m212[36m:[m80[36m:[m [1m[31mE501[m line too long (93 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m220[36m:[m80[36m:[m [1m[31mE501[m line too long (87 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m226[36m:[m80[36m:[m [1m[31mE501[m line too long (113 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m230[36m:[m80[36m:[m [1m[31mE501[m line too long (82 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m246[36m:[m80[36m:[m [1m[31mE501[m line too long (82 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m248[36m:[m80[36m:[m [1m[31mE501[m line too long (82 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m250[36m:[m80[36m:[m [1m[31mE501[m line too long (105 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m262[36m:[m80[36m:[m [1m[31mE501[m line too long (92 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m267[36m:[m80[36m:[m [1m[31mE501[m line too long (80 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m268[36m:[m80[36m:[m [1m[31mE501[m line too long (88 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m274[36m:[m80[36m:[m [1m[31mE501[m line too long (88 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m291[36m:[m80[36m:[m [1m[31mE501[m line too long (83 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m300[36m:[m80[36m:[m [1m[31mE501[m line too long (88 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m305[36m:[m80[36m:[m [1m[31mE501[m line too long (91 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m306[36m:[m80[36m:[m [1m[31mE501[m line too long (96 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m316[36m:[m80[36m:[m [1m[31mE501[m line too long (84 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m319[36m:[m80[36m:[m [1m[31mE501[m line too long (84 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m320[36m:[m80[36m:[m [1m[31mE501[m line too long (81 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m321[36m:[m80[36m:[m [1m[31mE501[m line too long (86 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m332[36m:[m80[36m:[m [1m[31mE501[m line too long (96 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m343[36m:[m80[36m:[m [1m[31mE501[m line too long (82 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m344[36m:[m80[36m:[m [1m[31mE501[m line too long (80 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m346[36m:[m80[36m:[m [1m[31mE501[m line too long (96 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m351[36m:[m80[36m:[m [1m[31mE501[m line too long (84 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m353[36m:[m80[36m:[m [1m[31mE501[m line too long (83 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m357[36m:[m80[36m:[m [1m[31mE501[m line too long (93 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m362[36m:[m80[36m:[m [1m[31mE501[m line too long (91 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m365[36m:[m80[36m:[m [1m[31mE501[m line too long (84 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m367[36m:[m80[36m:[m [1m[31mE501[m line too long (118 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m372[36m:[m80[36m:[m [1m[31mE501[m line too long (95 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m373[36m:[m80[36m:[m [1m[31mE501[m line too long (80 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m376[36m:[m80[36m:[m [1m[31mE501[m line too long (82 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m377[36m:[m80[36m:[m [1m[31mE501[m line too long (85 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m384[36m:[m80[36m:[m [1m[31mE501[m line too long (104 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m414[36m:[m80[36m:[m [1m[31mE501[m line too long (98 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m419[36m:[m80[36m:[m [1m[31mE501[m line too long (87 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m420[36m:[m80[36m:[m [1m[31mE501[m line too long (92 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m434[36m:[m80[36m:[m [1m[31mE501[m line too long (104 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m441[36m:[m80[36m:[m [1m[31mE501[m line too long (91 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m443[36m:[m80[36m:[m [1m[31mE501[m line too long (109 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m454[36m:[m80[36m:[m [1m[31mE501[m line too long (84 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m468[36m:[m80[36m:[m [1m[31mE501[m line too long (83 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m470[36m:[m80[36m:[m [1m[31mE501[m line too long (108 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m475[36m:[m80[36m:[m [1m[31mE501[m line too long (95 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m479[36m:[m80[36m:[m [1m[31mE501[m line too long (186 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m483[36m:[m80[36m:[m [1m[31mE501[m line too long (98 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m487[36m:[m80[36m:[m [1m[31mE501[m line too long (98 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m492[36m:[m80[36m:[m [1m[31mE501[m line too long (105 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m493[36m:[m80[36m:[m [1m[31mE501[m line too long (159 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m495[36m:[m80[36m:[m [1m[31mE501[m line too long (113 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m496[36m:[m80[36m:[m [1m[31mE501[m line too long (183 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m500[36m:[m80[36m:[m [1m[31mE501[m line too long (156 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m504[36m:[m80[36m:[m [1m[31mE501[m line too long (95 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m509[36m:[m80[36m:[m [1m[31mE501[m line too long (110 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m510[36m:[m80[36m:[m [1m[31mE501[m line too long (127 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m511[36m:[m80[36m:[m [1m[31mE501[m line too long (97 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m512[36m:[m80[36m:[m [1m[31mE501[m line too long (133 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m515[36m:[m80[36m:[m [1m[31mE501[m line too long (91 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m518[36m:[m80[36m:[m [1m[31mE501[m line too long (88 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m526[36m:[m80[36m:[m [1m[31mE501[m line too long (98 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m531[36m:[m80[36m:[m [1m[31mE501[m line too long (110 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m532[36m:[m80[36m:[m [1m[31mE501[m line too long (99 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m533[36m:[m80[36m:[m [1m[31mE501[m line too long (121 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m539[36m:[m80[36m:[m [1m[31mE501[m line too long (89 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m546[36m:[m80[36m:[m [1m[31mE501[m line too long (98 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m548[36m:[m80[36m:[m [1m[31mE501[m line too long (106 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m550[36m:[m80[36m:[m [1m[31mE501[m line too long (121 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m551[36m:[m80[36m:[m [1m[31mE501[m line too long (98 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m559[36m:[m80[36m:[m [1m[31mE501[m line too long (176 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m561[36m:[m80[36m:[m [1m[31mE501[m line too long (104 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m566[36m:[m80[36m:[m [1m[31mE501[m line too long (84 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m568[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mmodules/process_functions/functions.py[m[36m:[m569[36m:[m80[36m:[m [1m[31mE501[m line too long (91 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m571[36m:[m80[36m:[m [1m[31mE501[m line too long (85 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m574[36m:[m80[36m:[m [1m[31mE501[m line too long (112 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m579[36m:[m80[36m:[m [1m[31mE501[m line too long (105 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m581[36m:[m80[36m:[m [1m[31mE501[m line too long (107 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m586[36m:[m80[36m:[m [1m[31mE501[m line too long (113 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m588[36m:[m80[36m:[m [1m[31mE501[m line too long (96 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m598[36m:[m80[36m:[m [1m[31mE501[m line too long (85 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m600[36m:[m80[36m:[m [1m[31mE501[m line too long (119 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m608[36m:[m80[36m:[m [1m[31mE501[m line too long (85 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m610[36m:[m80[36m:[m [1m[31mE501[m line too long (96 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m617[36m:[m80[36m:[m [1m[31mE501[m line too long (85 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m620[36m:[m80[36m:[m [1m[31mE501[m line too long (84 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m627[36m:[m80[36m:[m [1m[31mE501[m line too long (94 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m630[36m:[m80[36m:[m [1m[31mE501[m line too long (88 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m633[36m:[m80[36m:[m [1m[31mE501[m line too long (85 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m636[36m:[m80[36m:[m [1m[31mE501[m line too long (149 > 79 characters)
+[1mmodules/process_functions/functions.py[m[36m:[m637[36m:[m80[36m:[m [1m[31mE501[m line too long (204 > 79 characters)
+[1mmodules/relevant_functions/__init__.py[m[36m:[m1[36m:[m1[36m:[m [1m[31mF401[m 'typing.Any' imported but unused
+[1mmodules/relevant_functions/__init__.py[m[36m:[m11[36m:[m80[36m:[m [1m[31mE501[m line too long (86 > 79 characters)
+[1mmodules/relevant_functions/__init__.py[m[36m:[m25[36m:[m80[36m:[m [1m[31mE501[m line too long (83 > 79 characters)
+[1mmodules/relevant_functions/__init__.py[m[36m:[m26[36m:[m80[36m:[m [1m[31mE501[m line too long (158 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m7[36m:[m80[36m:[m [1m[31mE501[m line too long (101 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m8[36m:[m80[36m:[m [1m[31mE501[m line too long (94 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m29[36m:[m80[36m:[m [1m[31mE501[m line too long (90 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m57[36m:[m80[36m:[m [1m[31mE501[m line too long (142 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m71[36m:[m80[36m:[m [1m[31mE501[m line too long (84 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m74[36m:[m80[36m:[m [1m[31mE501[m line too long (101 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m77[36m:[m80[36m:[m [1m[31mE501[m line too long (115 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m82[36m:[m40[36m:[m [1m[31mE231[m missing whitespace after ','
+[1mmodules/relevant_functions/functions.py[m[36m:[m82[36m:[m69[36m:[m [1m[31mE231[m missing whitespace after ','
+[1mmodules/relevant_functions/functions.py[m[36m:[m82[36m:[m80[36m:[m [1m[31mE501[m line too long (90 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m88[36m:[m80[36m:[m [1m[31mE501[m line too long (123 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m90[36m:[m80[36m:[m [1m[31mE501[m line too long (144 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m90[36m:[m141[36m:[m [1m[31mE231[m missing whitespace after ','
+[1mmodules/relevant_functions/functions.py[m[36m:[m91[36m:[m46[36m:[m [1m[31mE231[m missing whitespace after ','
+[1mmodules/relevant_functions/functions.py[m[36m:[m92[36m:[m80[36m:[m [1m[31mE501[m line too long (88 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m134[36m:[m80[36m:[m [1m[31mE501[m line too long (87 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m139[36m:[m80[36m:[m [1m[31mE501[m line too long (83 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m218[36m:[m80[36m:[m [1m[31mE501[m line too long (91 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m236[36m:[m1[36m:[m [1m[31mE303[m too many blank lines (3)
+[1mmodules/relevant_functions/functions.py[m[36m:[m237[36m:[m80[36m:[m [1m[31mE501[m line too long (86 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m264[36m:[m80[36m:[m [1m[31mE501[m line too long (89 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m266[36m:[m80[36m:[m [1m[31mE501[m line too long (84 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m284[36m:[m80[36m:[m [1m[31mE501[m line too long (84 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m299[36m:[m80[36m:[m [1m[31mE501[m line too long (94 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m313[36m:[m80[36m:[m [1m[31mE501[m line too long (89 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m318[36m:[m80[36m:[m [1m[31mE501[m line too long (83 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m338[36m:[m80[36m:[m [1m[31mE501[m line too long (83 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m339[36m:[m80[36m:[m [1m[31mE501[m line too long (89 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m347[36m:[m80[36m:[m [1m[31mE501[m line too long (81 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m350[36m:[m80[36m:[m [1m[31mE501[m line too long (91 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m353[36m:[m80[36m:[m [1m[31mE501[m line too long (94 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m354[36m:[m80[36m:[m [1m[31mE501[m line too long (95 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m357[36m:[m80[36m:[m [1m[31mE501[m line too long (216 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m359[36m:[m80[36m:[m [1m[31mE501[m line too long (80 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m376[36m:[m80[36m:[m [1m[31mE501[m line too long (80 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m388[36m:[m80[36m:[m [1m[31mE501[m line too long (83 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m389[36m:[m80[36m:[m [1m[31mE501[m line too long (86 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m397[36m:[m80[36m:[m [1m[31mE501[m line too long (92 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m412[36m:[m80[36m:[m [1m[31mE501[m line too long (103 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m419[36m:[m80[36m:[m [1m[31mE501[m line too long (82 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m421[36m:[m80[36m:[m [1m[31mE501[m line too long (101 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m452[36m:[m80[36m:[m [1m[31mE501[m line too long (173 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m453[36m:[m80[36m:[m [1m[31mE501[m line too long (80 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m456[36m:[m80[36m:[m [1m[31mE501[m line too long (85 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m463[36m:[m80[36m:[m [1m[31mE501[m line too long (91 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m464[36m:[m80[36m:[m [1m[31mE501[m line too long (86 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m465[36m:[m80[36m:[m [1m[31mE501[m line too long (87 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m466[36m:[m80[36m:[m [1m[31mE501[m line too long (107 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m467[36m:[m80[36m:[m [1m[31mE501[m line too long (110 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m470[36m:[m80[36m:[m [1m[31mE501[m line too long (158 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m505[36m:[m80[36m:[m [1m[31mE501[m line too long (95 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m506[36m:[m80[36m:[m [1m[31mE501[m line too long (93 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m512[36m:[m80[36m:[m [1m[31mE501[m line too long (84 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m519[36m:[m80[36m:[m [1m[31mE501[m line too long (133 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m521[36m:[m80[36m:[m [1m[31mE501[m line too long (90 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m534[36m:[m80[36m:[m [1m[31mE501[m line too long (93 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m535[36m:[m80[36m:[m [1m[31mE501[m line too long (81 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m536[36m:[m80[36m:[m [1m[31mE501[m line too long (80 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m552[36m:[m80[36m:[m [1m[31mE501[m line too long (84 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m561[36m:[m80[36m:[m [1m[31mE501[m line too long (95 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m565[36m:[m80[36m:[m [1m[31mE501[m line too long (80 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m601[36m:[m65[36m:[m [1m[31mE231[m missing whitespace after ':'
+[1mmodules/relevant_functions/functions.py[m[36m:[m601[36m:[m73[36m:[m [1m[31mE231[m missing whitespace after ','
+[1mmodules/relevant_functions/functions.py[m[36m:[m601[36m:[m80[36m:[m [1m[31mE501[m line too long (145 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m601[36m:[m83[36m:[m [1m[31mE231[m missing whitespace after ':'
+[1mmodules/relevant_functions/functions.py[m[36m:[m605[36m:[m65[36m:[m [1m[31mE231[m missing whitespace after ':'
+[1mmodules/relevant_functions/functions.py[m[36m:[m605[36m:[m73[36m:[m [1m[31mE231[m missing whitespace after ','
+[1mmodules/relevant_functions/functions.py[m[36m:[m605[36m:[m80[36m:[m [1m[31mE501[m line too long (153 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m605[36m:[m83[36m:[m [1m[31mE231[m missing whitespace after ':'
+[1mmodules/relevant_functions/functions.py[m[36m:[m610[36m:[m80[36m:[m [1m[31mE501[m line too long (87 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m611[36m:[m80[36m:[m [1m[31mE501[m line too long (84 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m612[36m:[m80[36m:[m [1m[31mE501[m line too long (83 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m615[36m:[m65[36m:[m [1m[31mE231[m missing whitespace after ':'
+[1mmodules/relevant_functions/functions.py[m[36m:[m615[36m:[m73[36m:[m [1m[31mE231[m missing whitespace after ','
+[1mmodules/relevant_functions/functions.py[m[36m:[m615[36m:[m80[36m:[m [1m[31mE501[m line too long (207 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m615[36m:[m83[36m:[m [1m[31mE231[m missing whitespace after ':'
+[1mmodules/relevant_functions/functions.py[m[36m:[m620[36m:[m65[36m:[m [1m[31mE231[m missing whitespace after ':'
+[1mmodules/relevant_functions/functions.py[m[36m:[m620[36m:[m73[36m:[m [1m[31mE231[m missing whitespace after ','
+[1mmodules/relevant_functions/functions.py[m[36m:[m620[36m:[m80[36m:[m [1m[31mE501[m line too long (138 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m620[36m:[m83[36m:[m [1m[31mE231[m missing whitespace after ':'
+[1mmodules/relevant_functions/functions.py[m[36m:[m622[36m:[m65[36m:[m [1m[31mE231[m missing whitespace after ':'
+[1mmodules/relevant_functions/functions.py[m[36m:[m622[36m:[m73[36m:[m [1m[31mE231[m missing whitespace after ','
+[1mmodules/relevant_functions/functions.py[m[36m:[m622[36m:[m80[36m:[m [1m[31mE501[m line too long (176 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m622[36m:[m83[36m:[m [1m[31mE231[m missing whitespace after ':'
+[1mmodules/relevant_functions/functions.py[m[36m:[m626[36m:[m12[36m:[m [1m[31mE225[m missing whitespace around operator
+[1mmodules/relevant_functions/functions.py[m[36m:[m629[36m:[m80[36m:[m [1m[31mE501[m line too long (80 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m631[36m:[m80[36m:[m [1m[31mE501[m line too long (88 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m633[36m:[m80[36m:[m [1m[31mE501[m line too long (107 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m650[36m:[m80[36m:[m [1m[31mE501[m line too long (97 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m654[36m:[m25[36m:[m [1m[31mE225[m missing whitespace around operator
+[1mmodules/relevant_functions/functions.py[m[36m:[m654[36m:[m80[36m:[m [1m[31mE501[m line too long (120 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m657[36m:[m80[36m:[m [1m[31mE501[m line too long (86 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m661[36m:[m80[36m:[m [1m[31mE501[m line too long (84 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m662[36m:[m80[36m:[m [1m[31mE501[m line too long (121 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m670[36m:[m61[36m:[m [1m[31mE231[m missing whitespace after ':'
+[1mmodules/relevant_functions/functions.py[m[36m:[m670[36m:[m71[36m:[m [1m[31mE231[m missing whitespace after ','
+[1mmodules/relevant_functions/functions.py[m[36m:[m670[36m:[m80[36m:[m [1m[31mE501[m line too long (273 > 79 characters)
+[1mmodules/relevant_functions/functions.py[m[36m:[m670[36m:[m81[36m:[m [1m[31mE231[m missing whitespace after ':'
+[1mmodules/relevant_functions/functions.py[m[36m:[m670[36m:[m96[36m:[m [1m[31mE231[m missing whitespace after ','
+[1mmodules/relevant_functions/functions.py[m[36m:[m670[36m:[m113[36m:[m [1m[31mE231[m missing whitespace after ','
+[1mmodules/relevant_functions/functions.py[m[36m:[m670[36m:[m136[36m:[m [1m[31mE231[m missing whitespace after ','
+[1mmodules/relevant_functions/functions.py[m[36m:[m675[36m:[m61[36m:[m [1m[31mE231[m missing whitespace after ':'
+[1mmodules/relevant_functions/functions.py[m[36m:[m675[36m:[m69[36m:[m [1m[31mE231[m missing whitespace after ','
+[1mmodules/relevant_functions/functions.py[m[36m:[m675[36m:[m79[36m:[m [1m[31mE231[m missing whitespace after ':'
+[1mmodules/relevant_functions/functions.py[m[36m:[m675[36m:[m80[36m:[m [1m[31mE501[m line too long (151 > 79 characters)
+[1mmodules/search_functions/__init__.py[m[36m:[m27[36m:[m80[36m:[m [1m[31mE501[m line too long (92 > 79 characters)
+[1mmodules/search_functions/functions.py[m[36m:[m22[36m:[m80[36m:[m [1m[31mE501[m line too long (90 > 79 characters)
+[1mmodules/search_functions/functions.py[m[36m:[m24[36m:[m80[36m:[m [1m[31mE501[m line too long (81 > 79 characters)
+[1mmodules/search_functions/functions.py[m[36m:[m52[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mmodules/search_functions/functions.py[m[36m:[m54[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mmodules/search_functions/functions.py[m[36m:[m58[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mmodules/search_functions/functions.py[m[36m:[m64[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mmodules/search_functions/functions.py[m[36m:[m69[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mmodules/search_functions/functions.py[m[36m:[m76[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mmodules/search_functions/functions.py[m[36m:[m84[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mmodules/search_functions/functions.py[m[36m:[m88[36m:[m1[36m:[m [1m[31mW293[m blank line contains whitespace
+[1mmodules/search_functions/functions.py[m[36m:[m150[36m:[m80[36m:[m [1m[31mE501[m line too long (80 > 79 characters)
+[1mmodules/search_functions/functions.py[m[36m:[m183[36m:[m80[36m:[m [1m[31mE501[m line too long (86 > 79 characters)
+[1mmodules/search_functions/functions.py[m[36m:[m192[36m:[m5[36m:[m [1m[31mF841[m local variable 'e' is assigned to but never used
+[1mmodules/template_functions.py[m[36m:[m3[36m:[m80[36m:[m [1m[31mE501[m line too long (82 > 79 characters)
+[1mmodules/template_functions.py[m[36m:[m9[36m:[m80[36m:[m [1m[31mE501[m line too long (80 > 79 characters)
+[1mmodules/template_functions.py[m[36m:[m32[36m:[m80[36m:[m [1m[31mE501[m line too long (82 > 79 characters)
+[1mmodules/template_functions.py[m[36m:[m38[36m:[m80[36m:[m [1m[31mE501[m line too long (82 > 79 characters)
+[1mmodules/template_functions.py[m[36m:[m47[36m:[m80[36m:[m [1m[31mE501[m line too long (80 > 79 characters)
+[1mmodules/test_functions/functions.py[m[36m:[m6[36m:[m1[36m:[m [1m[31mF401[m 'json' imported but unused
+[1mmodules/test_functions/functions.py[m[36m:[m34[36m:[m80[36m:[m [1m[31mE501[m line too long (86 > 79 characters)
+[1mmodules/test_functions/functions.py[m[36m:[m35[36m:[m80[36m:[m [1m[31mE501[m line too long (83 > 79 characters)
+[1mmodules/test_functions/functions.py[m[36m:[m38[36m:[m80[36m:[m [1m[31mE501[m line too long (154 > 79 characters)
+modules/cite_functions/__init__.py:27:80: E501 line too long (90 > 79 characters)
+modules/cite_functions/__init__.py:38:80: E501 line too long (80 > 79 characters)
+modules/cite_functions/__init__.py:44:80: E501 line too long (81 > 79 characters)
+modules/cite_functions/__init__.py:50:80: E501 line too long (80 > 79 characters)
+modules/cite_functions/__init__.py:52:80: E501 line too long (80 > 79 characters)
+modules/cite_functions/functions.py:50:80: E501 line too long (97 > 79 characters)
+modules/cite_functions/functions.py:75:80: E501 line too long (120 > 79 characters)
+modules/cite_functions/functions.py:86:80: E501 line too long (83 > 79 characters)
+modules/cite_functions/functions.py:92:80: E501 line too long (88 > 79 characters)
+modules/cite_functions/functions.py:128:80: E501 line too long (96 > 79 characters)
+modules/cite_functions/functions.py:174:5: F841 local variable 'ns' is assigned to but never used
+modules/cite_functions/functions.py:231:80: E501 line too long (84 > 79 characters)
+modules/cite_functions/functions.py:237:80: E501 line too long (85 > 79 characters)
+modules/cite_functions/functions.py:248:80: E501 line too long (110 > 79 characters)
+modules/cite_functions/functions.py:265:80: E501 line too long (84 > 79 characters)
+modules/cite_functions/functions.py:268:80: E501 line too long (125 > 79 characters)
+modules/cite_functions/functions.py:293:80: E501 line too long (81 > 79 characters)
+modules/cite_functions/functions.py:294:80: E501 line too long (114 > 79 characters)
+modules/cite_functions/functions.py:296:80: E501 line too long (88 > 79 characters)
+modules/cite_functions/functions.py:303:80: E501 line too long (92 > 79 characters)
+modules/cite_functions/functions.py:307:80: E501 line too long (88 > 79 characters)
+modules/cite_functions/functions.py:369:80: E501 line too long (82 > 79 characters)
+modules/cite_functions/functions.py:377:80: E501 line too long (88 > 79 characters)
+modules/cite_functions/functions.py:389:80: E501 line too long (179 > 79 characters)
+modules/cite_functions/functions.py:395:80: E501 line too long (87 > 79 characters)
+modules/cite_functions/functions.py:404:80: E501 line too long (82 > 79 characters)
+modules/cite_functions/functions.py:444:80: E501 line too long (88 > 79 characters)
+modules/cite_functions/functions.py:467:80: E501 line too long (82 > 79 characters)
+modules/cite_functions/functions.py:482:80: E501 line too long (81 > 79 characters)
+modules/cite_functions/functions.py:486:80: E501 line too long (88 > 79 characters)
+modules/cite_functions/functions.py:515:80: E501 line too long (81 > 79 characters)
+modules/cite_functions/functions.py:519:9: F841 local variable 'primary' is assigned to but never used
+modules/cite_functions/functions.py:520:80: E501 line too long (86 > 79 characters)
+modules/cite_functions/functions.py:523:80: E501 line too long (105 > 79 characters)
+modules/cite_functions/functions.py:576:80: E501 line too long (125 > 79 characters)
+modules/cite_functions/functions.py:582:80: E501 line too long (98 > 79 characters)
+modules/cite_functions/functions.py:592:80: E501 line too long (123 > 79 characters)
+modules/cite_functions/functions.py:598:80: E501 line too long (97 > 79 characters)
+modules/cite_functions/functions.py:635:80: E501 line too long (81 > 79 characters)
+modules/cite_functions/functions.py:646:80: E501 line too long (82 > 79 characters)
+modules/cite_functions/functions.py:712:80: E501 line too long (80 > 79 characters)
+modules/cite_functions/functions.py:714:80: E501 line too long (81 > 79 characters)
+modules/cite_functions/functions.py:724:80: E501 line too long (82 > 79 characters)
+modules/communityDetection/__init__.py:1:1: F401 'typing.Any' imported but unused
+modules/communityDetection/__init__.py:11:80: E501 line too long (91 > 79 characters)
+modules/communityDetection/__init__.py:25:80: E501 line too long (84 > 79 characters)
+modules/communityDetection/__init__.py:26:80: E501 line too long (158 > 79 characters)
+modules/communityDetection/functions.py:73:80: E501 line too long (90 > 79 characters)
+modules/communityDetection/functions.py:84:80: E501 line too long (193 > 79 characters)
+modules/communityDetection/functions.py:105:80: E501 line too long (168 > 79 characters)
+modules/communityDetection/functions.py:144:80: E501 line too long (228 > 79 characters)
+modules/communityDetection/functions.py:149:80: E501 line too long (154 > 79 characters)
+modules/process_functions/__init__.py:23:80: E501 line too long (89 > 79 characters)
+modules/process_functions/__init__.py:33:80: E501 line too long (85 > 79 characters)
+modules/process_functions/__init__.py:40:80: E501 line too long (80 > 79 characters)
+modules/process_functions/__init__.py:41:80: E501 line too long (208 > 79 characters)
+modules/process_functions/__init__.py:48:80: E501 line too long (85 > 79 characters)
+modules/process_functions/__init__.py:56:80: E501 line too long (208 > 79 characters)
+modules/process_functions/__init__.py:61:1: F401 '.functions.getReferences' imported but unused
+modules/process_functions/__init__.py:61:1: F401 '.functions.getCitating' imported but unused
+modules/process_functions/__init__.py:61:1: E305 expected 2 blank lines after class or function definition, found 0
+modules/process_functions/__init__.py:61:1: E402 module level import not at top of file
+modules/process_functions/__init__.py:62:1: E402 module level import not at top of file
+modules/process_functions/__init__.py:63:1: E402 module level import not at top of file
+modules/process_functions/__init__.py:67:1: F811 redefinition of unused 'register_routes' from line 17
+modules/process_functions/__init__.py:67:1: E302 expected 2 blank lines, found 1
+modules/process_functions/__init__.py:70:1: W293 blank line contains whitespace
+modules/process_functions/__init__.py:75:1: E305 expected 2 blank lines after class or function definition, found 0
+modules/process_functions/__init__.py:82:1: E402 module level import not at top of file
+modules/process_functions/__init__.py:83:1: E402 module level import not at top of file
+modules/process_functions/__init__.py:86:1: F811 redefinition of unused '_impl' from line 12
+modules/process_functions/__init__.py:86:1: E402 module level import not at top of file
+modules/process_functions/__init__.py:91:1: F811 redefinition of unused 'register_routes' from line 67
+modules/process_functions/__init__.py:95:80: E501 line too long (84 > 79 characters)
+modules/process_functions/__init__.py:96:80: E501 line too long (81 > 79 characters)
+modules/process_functions/__init__.py:116:5: E303 too many blank lines (3)
+modules/process_functions/__init__.py:116:65: W291 trailing whitespace
+modules/process_functions/__init__.py:116:69: W292 no newline at end of file
+modules/process_functions/functions.py:3:80: E501 line too long (114 > 79 characters)
+modules/process_functions/functions.py:9:80: E501 line too long (82 > 79 characters)
+modules/process_functions/functions.py:11:80: E501 line too long (101 > 79 characters)
+modules/process_functions/functions.py:12:80: E501 line too long (96 > 79 characters)
+modules/process_functions/functions.py:19:80: E501 line too long (84 > 79 characters)
+modules/process_functions/functions.py:30:1: F401 'datetime.datetime' imported but unused
+modules/process_functions/functions.py:34:80: E501 line too long (90 > 79 characters)
+modules/process_functions/functions.py:49:1: E302 expected 2 blank lines, found 1
+modules/process_functions/functions.py:78:80: E501 line too long (83 > 79 characters)
+modules/process_functions/functions.py:79:80: E501 line too long (153 > 79 characters)
+modules/process_functions/functions.py:81:80: E501 line too long (89 > 79 characters)
+modules/process_functions/functions.py:83:80: E501 line too long (98 > 79 characters)
+modules/process_functions/functions.py:84:80: E501 line too long (105 > 79 characters)
+modules/process_functions/functions.py:89:66: E201 whitespace after '('
+modules/process_functions/functions.py:89:77: E231 missing whitespace after ','
+modules/process_functions/functions.py:89:80: E501 line too long (97 > 79 characters)
+modules/process_functions/functions.py:90:68: E201 whitespace after '('
+modules/process_functions/functions.py:90:80: E501 line too long (102 > 79 characters)
+modules/process_functions/functions.py:90:81: E231 missing whitespace after ','
+modules/process_functions/functions.py:93:80: E501 line too long (80 > 79 characters)
+modules/process_functions/functions.py:95:80: E501 line too long (107 > 79 characters)
+modules/process_functions/functions.py:96:80: E501 line too long (98 > 79 characters)
+modules/process_functions/functions.py:97:80: E501 line too long (93 > 79 characters)
+modules/process_functions/functions.py:99:80: E501 line too long (131 > 79 characters)
+modules/process_functions/functions.py:100:80: E501 line too long (92 > 79 characters)
+modules/process_functions/functions.py:101:80: E501 line too long (107 > 79 characters)
+modules/process_functions/functions.py:105:80: E501 line too long (101 > 79 characters)
+modules/process_functions/functions.py:127:80: E501 line too long (84 > 79 characters)
+modules/process_functions/functions.py:130:80: E501 line too long (93 > 79 characters)
+modules/process_functions/functions.py:131:80: E501 line too long (88 > 79 characters)
+modules/process_functions/functions.py:138:80: E501 line too long (92 > 79 characters)
+modules/process_functions/functions.py:139:80: E501 line too long (143 > 79 characters)
+modules/process_functions/functions.py:142:80: E501 line too long (98 > 79 characters)
+modules/process_functions/functions.py:143:80: E501 line too long (131 > 79 characters)
+modules/process_functions/functions.py:148:80: E501 line too long (91 > 79 characters)
+modules/process_functions/functions.py:173:80: E501 line too long (102 > 79 characters)
+modules/process_functions/functions.py:178:80: E501 line too long (96 > 79 characters)
+modules/process_functions/functions.py:193:80: E501 line too long (123 > 79 characters)
+modules/process_functions/functions.py:197:80: E501 line too long (106 > 79 characters)
+modules/process_functions/functions.py:198:80: E501 line too long (92 > 79 characters)
+modules/process_functions/functions.py:203:80: E501 line too long (99 > 79 characters)
+modules/process_functions/functions.py:204:80: E501 line too long (92 > 79 characters)
+modules/process_functions/functions.py:205:80: E501 line too long (83 > 79 characters)
+modules/process_functions/functions.py:211:80: E501 line too long (81 > 79 characters)
+modules/process_functions/functions.py:212:80: E501 line too long (93 > 79 characters)
+modules/process_functions/functions.py:220:80: E501 line too long (87 > 79 characters)
+modules/process_functions/functions.py:226:80: E501 line too long (113 > 79 characters)
+modules/process_functions/functions.py:230:80: E501 line too long (82 > 79 characters)
+modules/process_functions/functions.py:246:80: E501 line too long (82 > 79 characters)
+modules/process_functions/functions.py:248:80: E501 line too long (82 > 79 characters)
+modules/process_functions/functions.py:250:80: E501 line too long (105 > 79 characters)
+modules/process_functions/functions.py:262:80: E501 line too long (92 > 79 characters)
+modules/process_functions/functions.py:267:80: E501 line too long (80 > 79 characters)
+modules/process_functions/functions.py:268:80: E501 line too long (88 > 79 characters)
+modules/process_functions/functions.py:274:80: E501 line too long (88 > 79 characters)
+modules/process_functions/functions.py:291:80: E501 line too long (83 > 79 characters)
+modules/process_functions/functions.py:300:80: E501 line too long (88 > 79 characters)
+modules/process_functions/functions.py:305:80: E501 line too long (91 > 79 characters)
+modules/process_functions/functions.py:306:80: E501 line too long (96 > 79 characters)
+modules/process_functions/functions.py:316:80: E501 line too long (84 > 79 characters)
+modules/process_functions/functions.py:319:80: E501 line too long (84 > 79 characters)
+modules/process_functions/functions.py:320:80: E501 line too long (81 > 79 characters)
+modules/process_functions/functions.py:321:80: E501 line too long (86 > 79 characters)
+modules/process_functions/functions.py:332:80: E501 line too long (96 > 79 characters)
+modules/process_functions/functions.py:343:80: E501 line too long (82 > 79 characters)
+modules/process_functions/functions.py:344:80: E501 line too long (80 > 79 characters)
+modules/process_functions/functions.py:346:80: E501 line too long (96 > 79 characters)
+modules/process_functions/functions.py:351:80: E501 line too long (84 > 79 characters)
+modules/process_functions/functions.py:353:80: E501 line too long (83 > 79 characters)
+modules/process_functions/functions.py:357:80: E501 line too long (93 > 79 characters)
+modules/process_functions/functions.py:362:80: E501 line too long (91 > 79 characters)
+modules/process_functions/functions.py:365:80: E501 line too long (84 > 79 characters)
+modules/process_functions/functions.py:367:80: E501 line too long (118 > 79 characters)
+modules/process_functions/functions.py:372:80: E501 line too long (95 > 79 characters)
+modules/process_functions/functions.py:373:80: E501 line too long (80 > 79 characters)
+modules/process_functions/functions.py:376:80: E501 line too long (82 > 79 characters)
+modules/process_functions/functions.py:377:80: E501 line too long (85 > 79 characters)
+modules/process_functions/functions.py:384:80: E501 line too long (104 > 79 characters)
+modules/process_functions/functions.py:414:80: E501 line too long (98 > 79 characters)
+modules/process_functions/functions.py:419:80: E501 line too long (87 > 79 characters)
+modules/process_functions/functions.py:420:80: E501 line too long (92 > 79 characters)
+modules/process_functions/functions.py:434:80: E501 line too long (104 > 79 characters)
+modules/process_functions/functions.py:441:80: E501 line too long (91 > 79 characters)
+modules/process_functions/functions.py:443:80: E501 line too long (109 > 79 characters)
+modules/process_functions/functions.py:454:80: E501 line too long (84 > 79 characters)
+modules/process_functions/functions.py:468:80: E501 line too long (83 > 79 characters)
+modules/process_functions/functions.py:470:80: E501 line too long (108 > 79 characters)
+modules/process_functions/functions.py:475:80: E501 line too long (95 > 79 characters)
+modules/process_functions/functions.py:479:80: E501 line too long (186 > 79 characters)
+modules/process_functions/functions.py:483:80: E501 line too long (98 > 79 characters)
+modules/process_functions/functions.py:487:80: E501 line too long (98 > 79 characters)
+modules/process_functions/functions.py:492:80: E501 line too long (105 > 79 characters)
+modules/process_functions/functions.py:493:80: E501 line too long (159 > 79 characters)
+modules/process_functions/functions.py:495:80: E501 line too long (113 > 79 characters)
+modules/process_functions/functions.py:496:80: E501 line too long (183 > 79 characters)
+modules/process_functions/functions.py:500:80: E501 line too long (156 > 79 characters)
+modules/process_functions/functions.py:504:80: E501 line too long (95 > 79 characters)
+modules/process_functions/functions.py:509:80: E501 line too long (110 > 79 characters)
+modules/process_functions/functions.py:510:80: E501 line too long (127 > 79 characters)
+modules/process_functions/functions.py:511:80: E501 line too long (97 > 79 characters)
+modules/process_functions/functions.py:512:80: E501 line too long (133 > 79 characters)
+modules/process_functions/functions.py:515:80: E501 line too long (91 > 79 characters)
+modules/process_functions/functions.py:518:80: E501 line too long (88 > 79 characters)
+modules/process_functions/functions.py:526:80: E501 line too long (98 > 79 characters)
+modules/process_functions/functions.py:531:80: E501 line too long (110 > 79 characters)
+modules/process_functions/functions.py:532:80: E501 line too long (99 > 79 characters)
+modules/process_functions/functions.py:533:80: E501 line too long (121 > 79 characters)
+modules/process_functions/functions.py:539:80: E501 line too long (89 > 79 characters)
+modules/process_functions/functions.py:546:80: E501 line too long (98 > 79 characters)
+modules/process_functions/functions.py:548:80: E501 line too long (106 > 79 characters)
+modules/process_functions/functions.py:550:80: E501 line too long (121 > 79 characters)
+modules/process_functions/functions.py:551:80: E501 line too long (98 > 79 characters)
+modules/process_functions/functions.py:559:80: E501 line too long (176 > 79 characters)
+modules/process_functions/functions.py:561:80: E501 line too long (104 > 79 characters)
+modules/process_functions/functions.py:566:80: E501 line too long (84 > 79 characters)
+modules/process_functions/functions.py:568:1: W293 blank line contains whitespace
+modules/process_functions/functions.py:569:80: E501 line too long (91 > 79 characters)
+modules/process_functions/functions.py:571:80: E501 line too long (85 > 79 characters)
+modules/process_functions/functions.py:574:80: E501 line too long (112 > 79 characters)
+modules/process_functions/functions.py:579:80: E501 line too long (105 > 79 characters)
+modules/process_functions/functions.py:581:80: E501 line too long (107 > 79 characters)
+modules/process_functions/functions.py:586:80: E501 line too long (113 > 79 characters)
+modules/process_functions/functions.py:588:80: E501 line too long (96 > 79 characters)
+modules/process_functions/functions.py:598:80: E501 line too long (85 > 79 characters)
+modules/process_functions/functions.py:600:80: E501 line too long (119 > 79 characters)
+modules/process_functions/functions.py:608:80: E501 line too long (85 > 79 characters)
+modules/process_functions/functions.py:610:80: E501 line too long (96 > 79 characters)
+modules/process_functions/functions.py:617:80: E501 line too long (85 > 79 characters)
+modules/process_functions/functions.py:620:80: E501 line too long (84 > 79 characters)
+modules/process_functions/functions.py:627:80: E501 line too long (94 > 79 characters)
+modules/process_functions/functions.py:630:80: E501 line too long (88 > 79 characters)
+modules/process_functions/functions.py:633:80: E501 line too long (85 > 79 characters)
+modules/process_functions/functions.py:636:80: E501 line too long (149 > 79 characters)
+modules/process_functions/functions.py:637:80: E501 line too long (204 > 79 characters)
+modules/relevant_functions/__init__.py:1:1: F401 'typing.Any' imported but unused
+modules/relevant_functions/__init__.py:11:80: E501 line too long (86 > 79 characters)
+modules/relevant_functions/__init__.py:25:80: E501 line too long (83 > 79 characters)
+modules/relevant_functions/__init__.py:26:80: E501 line too long (158 > 79 characters)
+modules/relevant_functions/functions.py:7:80: E501 line too long (101 > 79 characters)
+modules/relevant_functions/functions.py:8:80: E501 line too long (94 > 79 characters)
+modules/relevant_functions/functions.py:29:80: E501 line too long (90 > 79 characters)
+modules/relevant_functions/functions.py:57:80: E501 line too long (142 > 79 characters)
+modules/relevant_functions/functions.py:71:80: E501 line too long (84 > 79 characters)
+modules/relevant_functions/functions.py:74:80: E501 line too long (101 > 79 characters)
+modules/relevant_functions/functions.py:77:80: E501 line too long (115 > 79 characters)
+modules/relevant_functions/functions.py:82:40: E231 missing whitespace after ','
+modules/relevant_functions/functions.py:82:69: E231 missing whitespace after ','
+modules/relevant_functions/functions.py:82:80: E501 line too long (90 > 79 characters)
+modules/relevant_functions/functions.py:88:80: E501 line too long (123 > 79 characters)
+modules/relevant_functions/functions.py:90:80: E501 line too long (144 > 79 characters)
+modules/relevant_functions/functions.py:90:141: E231 missing whitespace after ','
+modules/relevant_functions/functions.py:91:46: E231 missing whitespace after ','
+modules/relevant_functions/functions.py:92:80: E501 line too long (88 > 79 characters)
+modules/relevant_functions/functions.py:134:80: E501 line too long (87 > 79 characters)
+modules/relevant_functions/functions.py:139:80: E501 line too long (83 > 79 characters)
+modules/relevant_functions/functions.py:218:80: E501 line too long (91 > 79 characters)
+modules/relevant_functions/functions.py:236:1: E303 too many blank lines (3)
+modules/relevant_functions/functions.py:237:80: E501 line too long (86 > 79 characters)
+modules/relevant_functions/functions.py:264:80: E501 line too long (89 > 79 characters)
+modules/relevant_functions/functions.py:266:80: E501 line too long (84 > 79 characters)
+modules/relevant_functions/functions.py:284:80: E501 line too long (84 > 79 characters)
+modules/relevant_functions/functions.py:299:80: E501 line too long (94 > 79 characters)
+modules/relevant_functions/functions.py:313:80: E501 line too long (89 > 79 characters)
+modules/relevant_functions/functions.py:318:80: E501 line too long (83 > 79 characters)
+modules/relevant_functions/functions.py:338:80: E501 line too long (83 > 79 characters)
+modules/relevant_functions/functions.py:339:80: E501 line too long (89 > 79 characters)
+modules/relevant_functions/functions.py:347:80: E501 line too long (81 > 79 characters)
+modules/relevant_functions/functions.py:350:80: E501 line too long (91 > 79 characters)
+modules/relevant_functions/functions.py:353:80: E501 line too long (94 > 79 characters)
+modules/relevant_functions/functions.py:354:80: E501 line too long (95 > 79 characters)
+modules/relevant_functions/functions.py:357:80: E501 line too long (216 > 79 characters)
+modules/relevant_functions/functions.py:359:80: E501 line too long (80 > 79 characters)
+modules/relevant_functions/functions.py:376:80: E501 line too long (80 > 79 characters)
+modules/relevant_functions/functions.py:388:80: E501 line too long (83 > 79 characters)
+modules/relevant_functions/functions.py:389:80: E501 line too long (86 > 79 characters)
+modules/relevant_functions/functions.py:397:80: E501 line too long (92 > 79 characters)
+modules/relevant_functions/functions.py:412:80: E501 line too long (103 > 79 characters)
+modules/relevant_functions/functions.py:419:80: E501 line too long (82 > 79 characters)
+modules/relevant_functions/functions.py:421:80: E501 line too long (101 > 79 characters)
+modules/relevant_functions/functions.py:452:80: E501 line too long (173 > 79 characters)
+modules/relevant_functions/functions.py:453:80: E501 line too long (80 > 79 characters)
+modules/relevant_functions/functions.py:456:80: E501 line too long (85 > 79 characters)
+modules/relevant_functions/functions.py:463:80: E501 line too long (91 > 79 characters)
+modules/relevant_functions/functions.py:464:80: E501 line too long (86 > 79 characters)
+modules/relevant_functions/functions.py:465:80: E501 line too long (87 > 79 characters)
+modules/relevant_functions/functions.py:466:80: E501 line too long (107 > 79 characters)
+modules/relevant_functions/functions.py:467:80: E501 line too long (110 > 79 characters)
+modules/relevant_functions/functions.py:470:80: E501 line too long (158 > 79 characters)
+modules/relevant_functions/functions.py:505:80: E501 line too long (95 > 79 characters)
+modules/relevant_functions/functions.py:506:80: E501 line too long (93 > 79 characters)
+modules/relevant_functions/functions.py:512:80: E501 line too long (84 > 79 characters)
+modules/relevant_functions/functions.py:519:80: E501 line too long (133 > 79 characters)
+modules/relevant_functions/functions.py:521:80: E501 line too long (90 > 79 characters)
+modules/relevant_functions/functions.py:534:80: E501 line too long (93 > 79 characters)
+modules/relevant_functions/functions.py:535:80: E501 line too long (81 > 79 characters)
+modules/relevant_functions/functions.py:536:80: E501 line too long (80 > 79 characters)
+modules/relevant_functions/functions.py:552:80: E501 line too long (84 > 79 characters)
+modules/relevant_functions/functions.py:561:80: E501 line too long (95 > 79 characters)
+modules/relevant_functions/functions.py:565:80: E501 line too long (80 > 79 characters)
+modules/relevant_functions/functions.py:601:65: E231 missing whitespace after ':'
+modules/relevant_functions/functions.py:601:73: E231 missing whitespace after ','
+modules/relevant_functions/functions.py:601:80: E501 line too long (145 > 79 characters)
+modules/relevant_functions/functions.py:601:83: E231 missing whitespace after ':'
+modules/relevant_functions/functions.py:605:65: E231 missing whitespace after ':'
+modules/relevant_functions/functions.py:605:73: E231 missing whitespace after ','
+modules/relevant_functions/functions.py:605:80: E501 line too long (153 > 79 characters)
+modules/relevant_functions/functions.py:605:83: E231 missing whitespace after ':'
+modules/relevant_functions/functions.py:610:80: E501 line too long (87 > 79 characters)
+modules/relevant_functions/functions.py:611:80: E501 line too long (84 > 79 characters)
+modules/relevant_functions/functions.py:612:80: E501 line too long (83 > 79 characters)
+modules/relevant_functions/functions.py:615:65: E231 missing whitespace after ':'
+modules/relevant_functions/functions.py:615:73: E231 missing whitespace after ','
+modules/relevant_functions/functions.py:615:80: E501 line too long (207 > 79 characters)
+modules/relevant_functions/functions.py:615:83: E231 missing whitespace after ':'
+modules/relevant_functions/functions.py:620:65: E231 missing whitespace after ':'
+modules/relevant_functions/functions.py:620:73: E231 missing whitespace after ','
+modules/relevant_functions/functions.py:620:80: E501 line too long (138 > 79 characters)
+modules/relevant_functions/functions.py:620:83: E231 missing whitespace after ':'
+modules/relevant_functions/functions.py:622:65: E231 missing whitespace after ':'
+modules/relevant_functions/functions.py:622:73: E231 missing whitespace after ','
+modules/relevant_functions/functions.py:622:80: E501 line too long (176 > 79 characters)
+modules/relevant_functions/functions.py:622:83: E231 missing whitespace after ':'
+modules/relevant_functions/functions.py:626:12: E225 missing whitespace around operator
+modules/relevant_functions/functions.py:629:80: E501 line too long (80 > 79 characters)
+modules/relevant_functions/functions.py:631:80: E501 line too long (88 > 79 characters)
+modules/relevant_functions/functions.py:633:80: E501 line too long (107 > 79 characters)
+modules/relevant_functions/functions.py:650:80: E501 line too long (97 > 79 characters)
+modules/relevant_functions/functions.py:654:25: E225 missing whitespace around operator
+modules/relevant_functions/functions.py:654:80: E501 line too long (120 > 79 characters)
+modules/relevant_functions/functions.py:657:80: E501 line too long (86 > 79 characters)
+modules/relevant_functions/functions.py:661:80: E501 line too long (84 > 79 characters)
+modules/relevant_functions/functions.py:662:80: E501 line too long (121 > 79 characters)
+modules/relevant_functions/functions.py:670:61: E231 missing whitespace after ':'
+modules/relevant_functions/functions.py:670:71: E231 missing whitespace after ','
+modules/relevant_functions/functions.py:670:80: E501 line too long (273 > 79 characters)
+modules/relevant_functions/functions.py:670:81: E231 missing whitespace after ':'
+modules/relevant_functions/functions.py:670:96: E231 missing whitespace after ','
+modules/relevant_functions/functions.py:670:113: E231 missing whitespace after ','
+modules/relevant_functions/functions.py:670:136: E231 missing whitespace after ','
+modules/relevant_functions/functions.py:675:61: E231 missing whitespace after ':'
+modules/relevant_functions/functions.py:675:69: E231 missing whitespace after ','
+modules/relevant_functions/functions.py:675:79: E231 missing whitespace after ':'
+modules/relevant_functions/functions.py:675:80: E501 line too long (151 > 79 characters)
+modules/search_functions/__init__.py:27:80: E501 line too long (92 > 79 characters)
+modules/search_functions/functions.py:22:80: E501 line too long (90 > 79 characters)
+modules/search_functions/functions.py:24:80: E501 line too long (81 > 79 characters)
+modules/search_functions/functions.py:52:1: W293 blank line contains whitespace
+modules/search_functions/functions.py:54:1: W293 blank line contains whitespace
+modules/search_functions/functions.py:58:1: W293 blank line contains whitespace
+modules/search_functions/functions.py:64:1: W293 blank line contains whitespace
+modules/search_functions/functions.py:69:1: W293 blank line contains whitespace
+modules/search_functions/functions.py:76:1: W293 blank line contains whitespace
+modules/search_functions/functions.py:84:1: W293 blank line contains whitespace
+modules/search_functions/functions.py:88:1: W293 blank line contains whitespace
+modules/search_functions/functions.py:150:80: E501 line too long (80 > 79 characters)
+modules/search_functions/functions.py:183:80: E501 line too long (86 > 79 characters)
+modules/search_functions/functions.py:192:5: F841 local variable 'e' is assigned to but never used
+modules/template_functions.py:3:80: E501 line too long (82 > 79 characters)
+modules/template_functions.py:9:80: E501 line too long (80 > 79 characters)
+modules/template_functions.py:32:80: E501 line too long (82 > 79 characters)
+modules/template_functions.py:38:80: E501 line too long (82 > 79 characters)
+modules/template_functions.py:47:80: E501 line too long (80 > 79 characters)
+modules/test_functions/functions.py:6:1: F401 'json' imported but unused
+modules/test_functions/functions.py:34:80: E501 line too long (86 > 79 characters)
+modules/test_functions/functions.py:35:80: E501 line too long (83 > 79 characters)
+modules/test_functions/functions.py:38:80: E501 line too long (154 > 79 characters)
+utils/logger.py:8:1: F401 'datetime.datetime' imported but unused
+utils/logger.py:73:80: E501 line too long (80 > 79 characters)
+2     E201 whitespace after '('
+2     E225 missing whitespace around operator
+30    E231 missing whitespace after ','
+2     E302 expected 2 blank lines, found 1
+2     E303 too many blank lines (3)
+2     E305 expected 2 blank lines after class or function definition, found 0
+6     E402 module level import not at top of file
+275   E501 line too long (90 > 79 characters)
+7     F401 'typing.Any' imported but unused
+3     F811 redefinition of unused 'register_routes' from line 17
+3     F841 local variable 'ns' is assigned to but never used
+1     W291 trailing whitespace
+1     W292 no newline at end of file
+10    W293 blank line contains whitespace
+modules/cite_functions/__init__.py:27:80: E501 line too long (90 > 79 characters)
+modules/cite_functions/__init__.py:38:80: E501 line too long (80 > 79 characters)
+modules/cite_functions/__init__.py:44:80: E501 line too long (81 > 79 characters)
+modules/cite_functions/__init__.py:50:80: E501 line too long (80 > 79 characters)
+modules/cite_functions/__init__.py:52:80: E501 line too long (80 > 79 characters)
+modules/cite_functions/functions.py:50:80: E501 line too long (97 > 79 characters)
+modules/cite_functions/functions.py:75:80: E501 line too long (120 > 79 characters)
+modules/cite_functions/functions.py:86:80: E501 line too long (83 > 79 characters)
+modules/cite_functions/functions.py:92:80: E501 line too long (88 > 79 characters)
+modules/cite_functions/functions.py:128:80: E501 line too long (96 > 79 characters)
+modules/cite_functions/functions.py:174:5: F841 local variable 'ns' is assigned to but never used
+modules/cite_functions/functions.py:231:80: E501 line too long (84 > 79 characters)
+modules/cite_functions/functions.py:237:80: E501 line too long (85 > 79 characters)
+modules/cite_functions/functions.py:248:80: E501 line too long (110 > 79 characters)
+modules/cite_functions/functions.py:265:80: E501 line too long (84 > 79 characters)
+modules/cite_functions/functions.py:268:80: E501 line too long (125 > 79 characters)
+modules/cite_functions/functions.py:293:80: E501 line too long (81 > 79 characters)
+modules/cite_functions/functions.py:294:80: E501 line too long (114 > 79 characters)
+modules/cite_functions/functions.py:296:80: E501 line too long (88 > 79 characters)
+modules/cite_functions/functions.py:303:80: E501 line too long (92 > 79 characters)
+modules/cite_functions/functions.py:307:80: E501 line too long (88 > 79 characters)
+modules/cite_functions/functions.py:369:80: E501 line too long (82 > 79 characters)
+modules/cite_functions/functions.py:377:80: E501 line too long (88 > 79 characters)
+modules/cite_functions/functions.py:389:80: E501 line too long (179 > 79 characters)
+modules/cite_functions/functions.py:395:80: E501 line too long (87 > 79 characters)
+modules/cite_functions/functions.py:404:80: E501 line too long (82 > 79 characters)
+modules/cite_functions/functions.py:444:80: E501 line too long (88 > 79 characters)
+modules/cite_functions/functions.py:467:80: E501 line too long (82 > 79 characters)
+modules/cite_functions/functions.py:482:80: E501 line too long (81 > 79 characters)
+modules/cite_functions/functions.py:486:80: E501 line too long (88 > 79 characters)
+modules/cite_functions/functions.py:515:80: E501 line too long (81 > 79 characters)
+modules/cite_functions/functions.py:519:9: F841 local variable 'primary' is assigned to but never used
+modules/cite_functions/functions.py:520:80: E501 line too long (86 > 79 characters)
+modules/cite_functions/functions.py:523:80: E501 line too long (105 > 79 characters)
+modules/cite_functions/functions.py:576:80: E501 line too long (125 > 79 characters)
+modules/cite_functions/functions.py:582:80: E501 line too long (98 > 79 characters)
+modules/cite_functions/functions.py:592:80: E501 line too long (123 > 79 characters)
+modules/cite_functions/functions.py:598:80: E501 line too long (97 > 79 characters)
+modules/cite_functions/functions.py:635:80: E501 line too long (81 > 79 characters)
+modules/cite_functions/functions.py:646:80: E501 line too long (82 > 79 characters)
+modules/cite_functions/functions.py:712:80: E501 line too long (80 > 79 characters)
+modules/cite_functions/functions.py:714:80: E501 line too long (81 > 79 characters)
+modules/cite_functions/functions.py:724:80: E501 line too long (82 > 79 characters)
+modules/communityDetection/__init__.py:1:1: F401 'typing.Any' imported but unused
+modules/communityDetection/__init__.py:11:80: E501 line too long (91 > 79 characters)
+modules/communityDetection/__init__.py:25:80: E501 line too long (84 > 79 characters)
+modules/communityDetection/__init__.py:26:80: E501 line too long (158 > 79 characters)
+modules/communityDetection/functions.py:73:80: E501 line too long (90 > 79 characters)
+modules/communityDetection/functions.py:84:80: E501 line too long (193 > 79 characters)
+modules/communityDetection/functions.py:105:80: E501 line too long (168 > 79 characters)
+modules/communityDetection/functions.py:144:80: E501 line too long (228 > 79 characters)
+modules/communityDetection/functions.py:149:80: E501 line too long (154 > 79 characters)
+modules/process_functions/__init__.py:23:80: E501 line too long (89 > 79 characters)
+modules/process_functions/__init__.py:33:80: E501 line too long (85 > 79 characters)
+modules/process_functions/__init__.py:40:80: E501 line too long (80 > 79 characters)
+modules/process_functions/__init__.py:41:80: E501 line too long (208 > 79 characters)
+modules/process_functions/__init__.py:48:80: E501 line too long (85 > 79 characters)
+modules/process_functions/__init__.py:56:80: E501 line too long (208 > 79 characters)
+modules/process_functions/__init__.py:61:1: F401 '.functions.getReferences' imported but unused
+modules/process_functions/__init__.py:61:1: F401 '.functions.getCitating' imported but unused
+modules/process_functions/__init__.py:61:1: E305 expected 2 blank lines after class or function definition, found 0
+modules/process_functions/__init__.py:61:1: E402 module level import not at top of file
+modules/process_functions/__init__.py:62:1: E402 module level import not at top of file
+modules/process_functions/__init__.py:63:1: E402 module level import not at top of file
+modules/process_functions/__init__.py:67:1: F811 redefinition of unused 'register_routes' from line 17
+modules/process_functions/__init__.py:67:1: E302 expected 2 blank lines, found 1
+modules/process_functions/__init__.py:70:1: W293 blank line contains whitespace
+modules/process_functions/__init__.py:75:1: E305 expected 2 blank lines after class or function definition, found 0
+modules/process_functions/__init__.py:82:1: E402 module level import not at top of file
+modules/process_functions/__init__.py:83:1: E402 module level import not at top of file
+modules/process_functions/__init__.py:86:1: F811 redefinition of unused '_impl' from line 12
+modules/process_functions/__init__.py:86:1: E402 module level import not at top of file
+modules/process_functions/__init__.py:91:1: F811 redefinition of unused 'register_routes' from line 67
+modules/process_functions/__init__.py:95:80: E501 line too long (84 > 79 characters)
+modules/process_functions/__init__.py:96:80: E501 line too long (81 > 79 characters)
+modules/process_functions/__init__.py:116:5: E303 too many blank lines (3)
+modules/process_functions/__init__.py:116:65: W291 trailing whitespace
+modules/process_functions/__init__.py:116:69: W292 no newline at end of file
+modules/process_functions/functions.py:3:80: E501 line too long (114 > 79 characters)
+modules/process_functions/functions.py:9:80: E501 line too long (82 > 79 characters)
+modules/process_functions/functions.py:11:80: E501 line too long (101 > 79 characters)
+modules/process_functions/functions.py:12:80: E501 line too long (96 > 79 characters)
+modules/process_functions/functions.py:19:80: E501 line too long (84 > 79 characters)
+modules/process_functions/functions.py:30:1: F401 'datetime.datetime' imported but unused
+modules/process_functions/functions.py:34:80: E501 line too long (90 > 79 characters)
+modules/process_functions/functions.py:49:1: E302 expected 2 blank lines, found 1
+modules/process_functions/functions.py:78:80: E501 line too long (83 > 79 characters)
+modules/process_functions/functions.py:79:80: E501 line too long (153 > 79 characters)
+modules/process_functions/functions.py:81:80: E501 line too long (89 > 79 characters)
+modules/process_functions/functions.py:83:80: E501 line too long (98 > 79 characters)
+modules/process_functions/functions.py:84:80: E501 line too long (105 > 79 characters)
+modules/process_functions/functions.py:89:66: E201 whitespace after '('
+modules/process_functions/functions.py:89:77: E231 missing whitespace after ','
+modules/process_functions/functions.py:89:80: E501 line too long (97 > 79 characters)
+modules/process_functions/functions.py:90:68: E201 whitespace after '('
+modules/process_functions/functions.py:90:80: E501 line too long (102 > 79 characters)
+modules/process_functions/functions.py:90:81: E231 missing whitespace after ','
+modules/process_functions/functions.py:93:80: E501 line too long (80 > 79 characters)
+modules/process_functions/functions.py:95:80: E501 line too long (107 > 79 characters)
+modules/process_functions/functions.py:96:80: E501 line too long (98 > 79 characters)
+modules/process_functions/functions.py:97:80: E501 line too long (93 > 79 characters)
+modules/process_functions/functions.py:99:80: E501 line too long (131 > 79 characters)
+modules/process_functions/functions.py:100:80: E501 line too long (92 > 79 characters)
+modules/process_functions/functions.py:101:80: E501 line too long (107 > 79 characters)
+modules/process_functions/functions.py:105:80: E501 line too long (101 > 79 characters)
+modules/process_functions/functions.py:127:80: E501 line too long (84 > 79 characters)
+modules/process_functions/functions.py:130:80: E501 line too long (93 > 79 characters)
+modules/process_functions/functions.py:131:80: E501 line too long (88 > 79 characters)
+modules/process_functions/functions.py:138:80: E501 line too long (92 > 79 characters)
+modules/process_functions/functions.py:139:80: E501 line too long (143 > 79 characters)
+modules/process_functions/functions.py:142:80: E501 line too long (98 > 79 characters)
+modules/process_functions/functions.py:143:80: E501 line too long (131 > 79 characters)
+modules/process_functions/functions.py:148:80: E501 line too long (91 > 79 characters)
+modules/process_functions/functions.py:173:80: E501 line too long (102 > 79 characters)
+modules/process_functions/functions.py:178:80: E501 line too long (96 > 79 characters)
+modules/process_functions/functions.py:193:80: E501 line too long (123 > 79 characters)
+modules/process_functions/functions.py:197:80: E501 line too long (106 > 79 characters)
+modules/process_functions/functions.py:198:80: E501 line too long (92 > 79 characters)
+modules/process_functions/functions.py:203:80: E501 line too long (99 > 79 characters)
+modules/process_functions/functions.py:204:80: E501 line too long (92 > 79 characters)
+modules/process_functions/functions.py:205:80: E501 line too long (83 > 79 characters)
+modules/process_functions/functions.py:211:80: E501 line too long (81 > 79 characters)
+modules/process_functions/functions.py:212:80: E501 line too long (93 > 79 characters)
+modules/process_functions/functions.py:220:80: E501 line too long (87 > 79 characters)
+modules/process_functions/functions.py:226:80: E501 line too long (113 > 79 characters)
+modules/process_functions/functions.py:230:80: E501 line too long (82 > 79 characters)
+modules/process_functions/functions.py:246:80: E501 line too long (82 > 79 characters)
+modules/process_functions/functions.py:248:80: E501 line too long (82 > 79 characters)
+modules/process_functions/functions.py:250:80: E501 line too long (105 > 79 characters)
+modules/process_functions/functions.py:262:80: E501 line too long (92 > 79 characters)
+modules/process_functions/functions.py:267:80: E501 line too long (80 > 79 characters)
+modules/process_functions/functions.py:268:80: E501 line too long (88 > 79 characters)
+modules/process_functions/functions.py:274:80: E501 line too long (88 > 79 characters)
+modules/process_functions/functions.py:291:80: E501 line too long (83 > 79 characters)
+modules/process_functions/functions.py:300:80: E501 line too long (88 > 79 characters)
+modules/process_functions/functions.py:305:80: E501 line too long (91 > 79 characters)
+modules/process_functions/functions.py:306:80: E501 line too long (96 > 79 characters)
+modules/process_functions/functions.py:316:80: E501 line too long (84 > 79 characters)
+modules/process_functions/functions.py:319:80: E501 line too long (84 > 79 characters)
+modules/process_functions/functions.py:320:80: E501 line too long (81 > 79 characters)
+modules/process_functions/functions.py:321:80: E501 line too long (86 > 79 characters)
+modules/process_functions/functions.py:332:80: E501 line too long (96 > 79 characters)
+modules/process_functions/functions.py:343:80: E501 line too long (82 > 79 characters)
+modules/process_functions/functions.py:344:80: E501 line too long (80 > 79 characters)
+modules/process_functions/functions.py:346:80: E501 line too long (96 > 79 characters)
+modules/process_functions/functions.py:351:80: E501 line too long (84 > 79 characters)
+modules/process_functions/functions.py:353:80: E501 line too long (83 > 79 characters)
+modules/process_functions/functions.py:357:80: E501 line too long (93 > 79 characters)
+modules/process_functions/functions.py:362:80: E501 line too long (91 > 79 characters)
+modules/process_functions/functions.py:365:80: E501 line too long (84 > 79 characters)
+modules/process_functions/functions.py:367:80: E501 line too long (118 > 79 characters)
+modules/process_functions/functions.py:372:80: E501 line too long (95 > 79 characters)
+modules/process_functions/functions.py:373:80: E501 line too long (80 > 79 characters)
+modules/process_functions/functions.py:376:80: E501 line too long (82 > 79 characters)
+modules/process_functions/functions.py:377:80: E501 line too long (85 > 79 characters)
+modules/process_functions/functions.py:384:80: E501 line too long (104 > 79 characters)
+modules/process_functions/functions.py:414:80: E501 line too long (98 > 79 characters)
+modules/process_functions/functions.py:419:80: E501 line too long (87 > 79 characters)
+modules/process_functions/functions.py:420:80: E501 line too long (92 > 79 characters)
+modules/process_functions/functions.py:434:80: E501 line too long (104 > 79 characters)
+modules/process_functions/functions.py:441:80: E501 line too long (91 > 79 characters)
+modules/process_functions/functions.py:443:80: E501 line too long (109 > 79 characters)
+modules/process_functions/functions.py:454:80: E501 line too long (84 > 79 characters)
+modules/process_functions/functions.py:468:80: E501 line too long (83 > 79 characters)
+modules/process_functions/functions.py:470:80: E501 line too long (108 > 79 characters)
+modules/process_functions/functions.py:475:80: E501 line too long (95 > 79 characters)
+modules/process_functions/functions.py:479:80: E501 line too long (186 > 79 characters)
+modules/process_functions/functions.py:483:80: E501 line too long (98 > 79 characters)
+modules/process_functions/functions.py:487:80: E501 line too long (98 > 79 characters)
+modules/process_functions/functions.py:492:80: E501 line too long (105 > 79 characters)
+modules/process_functions/functions.py:493:80: E501 line too long (159 > 79 characters)
+modules/process_functions/functions.py:495:80: E501 line too long (113 > 79 characters)
+modules/process_functions/functions.py:496:80: E501 line too long (183 > 79 characters)
+modules/process_functions/functions.py:500:80: E501 line too long (156 > 79 characters)
+modules/process_functions/functions.py:504:80: E501 line too long (95 > 79 characters)
+modules/process_functions/functions.py:509:80: E501 line too long (110 > 79 characters)
+modules/process_functions/functions.py:510:80: E501 line too long (127 > 79 characters)
+modules/process_functions/functions.py:511:80: E501 line too long (97 > 79 characters)
+modules/process_functions/functions.py:512:80: E501 line too long (133 > 79 characters)
+modules/process_functions/functions.py:515:80: E501 line too long (91 > 79 characters)
+modules/process_functions/functions.py:518:80: E501 line too long (88 > 79 characters)
+modules/process_functions/functions.py:526:80: E501 line too long (98 > 79 characters)
+modules/process_functions/functions.py:531:80: E501 line too long (110 > 79 characters)
+modules/process_functions/functions.py:532:80: E501 line too long (99 > 79 characters)
+modules/process_functions/functions.py:533:80: E501 line too long (121 > 79 characters)
+modules/process_functions/functions.py:539:80: E501 line too long (89 > 79 characters)
+modules/process_functions/functions.py:546:80: E501 line too long (98 > 79 characters)
+modules/process_functions/functions.py:548:80: E501 line too long (106 > 79 characters)
+modules/process_functions/functions.py:550:80: E501 line too long (121 > 79 characters)
+modules/process_functions/functions.py:551:80: E501 line too long (98 > 79 characters)
+modules/process_functions/functions.py:559:80: E501 line too long (176 > 79 characters)
+modules/process_functions/functions.py:561:80: E501 line too long (104 > 79 characters)
+modules/process_functions/functions.py:566:80: E501 line too long (84 > 79 characters)
+modules/process_functions/functions.py:568:1: W293 blank line contains whitespace
+modules/process_functions/functions.py:569:80: E501 line too long (91 > 79 characters)
+modules/process_functions/functions.py:571:80: E501 line too long (85 > 79 characters)
+modules/process_functions/functions.py:574:80: E501 line too long (112 > 79 characters)
+modules/process_functions/functions.py:579:80: E501 line too long (105 > 79 characters)
+modules/process_functions/functions.py:581:80: E501 line too long (107 > 79 characters)
+modules/process_functions/functions.py:586:80: E501 line too long (113 > 79 characters)
+modules/process_functions/functions.py:588:80: E501 line too long (96 > 79 characters)
+modules/process_functions/functions.py:598:80: E501 line too long (85 > 79 characters)
+modules/process_functions/functions.py:600:80: E501 line too long (119 > 79 characters)
+modules/process_functions/functions.py:608:80: E501 line too long (85 > 79 characters)
+modules/process_functions/functions.py:610:80: E501 line too long (96 > 79 characters)
+modules/process_functions/functions.py:617:80: E501 line too long (85 > 79 characters)
+modules/process_functions/functions.py:620:80: E501 line too long (84 > 79 characters)
+modules/process_functions/functions.py:627:80: E501 line too long (94 > 79 characters)
+modules/process_functions/functions.py:630:80: E501 line too long (88 > 79 characters)
+modules/process_functions/functions.py:633:80: E501 line too long (85 > 79 characters)
+modules/process_functions/functions.py:636:80: E501 line too long (149 > 79 characters)
+modules/process_functions/functions.py:637:80: E501 line too long (204 > 79 characters)
+modules/relevant_functions/__init__.py:1:1: F401 'typing.Any' imported but unused
+modules/relevant_functions/__init__.py:11:80: E501 line too long (86 > 79 characters)
+modules/relevant_functions/__init__.py:25:80: E501 line too long (83 > 79 characters)
+modules/relevant_functions/__init__.py:26:80: E501 line too long (158 > 79 characters)
+modules/relevant_functions/functions.py:7:80: E501 line too long (101 > 79 characters)
+modules/relevant_functions/functions.py:8:80: E501 line too long (94 > 79 characters)
+modules/relevant_functions/functions.py:29:80: E501 line too long (90 > 79 characters)
+modules/relevant_functions/functions.py:57:80: E501 line too long (142 > 79 characters)
+modules/relevant_functions/functions.py:71:80: E501 line too long (84 > 79 characters)
+modules/relevant_functions/functions.py:74:80: E501 line too long (101 > 79 characters)
+modules/relevant_functions/functions.py:77:80: E501 line too long (115 > 79 characters)
+modules/relevant_functions/functions.py:82:40: E231 missing whitespace after ','
+modules/relevant_functions/functions.py:82:69: E231 missing whitespace after ','
+modules/relevant_functions/functions.py:82:80: E501 line too long (90 > 79 characters)
+modules/relevant_functions/functions.py:88:80: E501 line too long (123 > 79 characters)
+modules/relevant_functions/functions.py:90:80: E501 line too long (144 > 79 characters)
+modules/relevant_functions/functions.py:90:141: E231 missing whitespace after ','
+modules/relevant_functions/functions.py:91:46: E231 missing whitespace after ','
+modules/relevant_functions/functions.py:92:80: E501 line too long (88 > 79 characters)
+modules/relevant_functions/functions.py:134:80: E501 line too long (87 > 79 characters)
+modules/relevant_functions/functions.py:139:80: E501 line too long (83 > 79 characters)
+modules/relevant_functions/functions.py:218:80: E501 line too long (91 > 79 characters)
+modules/relevant_functions/functions.py:236:1: E303 too many blank lines (3)
+modules/relevant_functions/functions.py:237:80: E501 line too long (86 > 79 characters)
+modules/relevant_functions/functions.py:264:80: E501 line too long (89 > 79 characters)
+modules/relevant_functions/functions.py:266:80: E501 line too long (84 > 79 characters)
+modules/relevant_functions/functions.py:284:80: E501 line too long (84 > 79 characters)
+modules/relevant_functions/functions.py:299:80: E501 line too long (94 > 79 characters)
+modules/relevant_functions/functions.py:313:80: E501 line too long (89 > 79 characters)
+modules/relevant_functions/functions.py:318:80: E501 line too long (83 > 79 characters)
+modules/relevant_functions/functions.py:338:80: E501 line too long (83 > 79 characters)
+modules/relevant_functions/functions.py:339:80: E501 line too long (89 > 79 characters)
+modules/relevant_functions/functions.py:347:80: E501 line too long (81 > 79 characters)
+modules/relevant_functions/functions.py:350:80: E501 line too long (91 > 79 characters)
+modules/relevant_functions/functions.py:353:80: E501 line too long (94 > 79 characters)
+modules/relevant_functions/functions.py:354:80: E501 line too long (95 > 79 characters)
+modules/relevant_functions/functions.py:357:80: E501 line too long (216 > 79 characters)
+modules/relevant_functions/functions.py:359:80: E501 line too long (80 > 79 characters)
+modules/relevant_functions/functions.py:376:80: E501 line too long (80 > 79 characters)
+modules/relevant_functions/functions.py:388:80: E501 line too long (83 > 79 characters)
+modules/relevant_functions/functions.py:389:80: E501 line too long (86 > 79 characters)
+modules/relevant_functions/functions.py:397:80: E501 line too long (92 > 79 characters)
+modules/relevant_functions/functions.py:412:80: E501 line too long (103 > 79 characters)
+modules/relevant_functions/functions.py:419:80: E501 line too long (82 > 79 characters)
+modules/relevant_functions/functions.py:421:80: E501 line too long (101 > 79 characters)
+modules/relevant_functions/functions.py:452:80: E501 line too long (173 > 79 characters)
+modules/relevant_functions/functions.py:453:80: E501 line too long (80 > 79 characters)
+modules/relevant_functions/functions.py:456:80: E501 line too long (85 > 79 characters)
+modules/relevant_functions/functions.py:463:80: E501 line too long (91 > 79 characters)
+modules/relevant_functions/functions.py:464:80: E501 line too long (86 > 79 characters)
+modules/relevant_functions/functions.py:465:80: E501 line too long (87 > 79 characters)
+modules/relevant_functions/functions.py:466:80: E501 line too long (107 > 79 characters)
+modules/relevant_functions/functions.py:467:80: E501 line too long (110 > 79 characters)
+modules/relevant_functions/functions.py:470:80: E501 line too long (158 > 79 characters)
+modules/relevant_functions/functions.py:505:80: E501 line too long (95 > 79 characters)
+modules/relevant_functions/functions.py:506:80: E501 line too long (93 > 79 characters)
+modules/relevant_functions/functions.py:512:80: E501 line too long (84 > 79 characters)
+modules/relevant_functions/functions.py:519:80: E501 line too long (133 > 79 characters)
+modules/relevant_functions/functions.py:521:80: E501 line too long (90 > 79 characters)
+modules/relevant_functions/functions.py:534:80: E501 line too long (93 > 79 characters)
+modules/relevant_functions/functions.py:535:80: E501 line too long (81 > 79 characters)
+modules/relevant_functions/functions.py:536:80: E501 line too long (80 > 79 characters)
+modules/relevant_functions/functions.py:552:80: E501 line too long (84 > 79 characters)
+modules/relevant_functions/functions.py:561:80: E501 line too long (95 > 79 characters)
+modules/relevant_functions/functions.py:565:80: E501 line too long (80 > 79 characters)
+modules/relevant_functions/functions.py:601:65: E231 missing whitespace after ':'
+modules/relevant_functions/functions.py:601:73: E231 missing whitespace after ','
+modules/relevant_functions/functions.py:601:80: E501 line too long (145 > 79 characters)
+modules/relevant_functions/functions.py:601:83: E231 missing whitespace after ':'
+modules/relevant_functions/functions.py:605:65: E231 missing whitespace after ':'
+modules/relevant_functions/functions.py:605:73: E231 missing whitespace after ','
+modules/relevant_functions/functions.py:605:80: E501 line too long (153 > 79 characters)
+modules/relevant_functions/functions.py:605:83: E231 missing whitespace after ':'
+modules/relevant_functions/functions.py:610:80: E501 line too long (87 > 79 characters)
+modules/relevant_functions/functions.py:611:80: E501 line too long (84 > 79 characters)
+modules/relevant_functions/functions.py:612:80: E501 line too long (83 > 79 characters)
+modules/relevant_functions/functions.py:615:65: E231 missing whitespace after ':'
+modules/relevant_functions/functions.py:615:73: E231 missing whitespace after ','
+modules/relevant_functions/functions.py:615:80: E501 line too long (207 > 79 characters)
+modules/relevant_functions/functions.py:615:83: E231 missing whitespace after ':'
+modules/relevant_functions/functions.py:620:65: E231 missing whitespace after ':'
+modules/relevant_functions/functions.py:620:73: E231 missing whitespace after ','
+modules/relevant_functions/functions.py:620:80: E501 line too long (138 > 79 characters)
+modules/relevant_functions/functions.py:620:83: E231 missing whitespace after ':'
+modules/relevant_functions/functions.py:622:65: E231 missing whitespace after ':'
+modules/relevant_functions/functions.py:622:73: E231 missing whitespace after ','
+modules/relevant_functions/functions.py:622:80: E501 line too long (176 > 79 characters)
+modules/relevant_functions/functions.py:622:83: E231 missing whitespace after ':'
+modules/relevant_functions/functions.py:626:12: E225 missing whitespace around operator
+modules/relevant_functions/functions.py:629:80: E501 line too long (80 > 79 characters)
+modules/relevant_functions/functions.py:631:80: E501 line too long (88 > 79 characters)
+modules/relevant_functions/functions.py:633:80: E501 line too long (107 > 79 characters)
+modules/relevant_functions/functions.py:650:80: E501 line too long (97 > 79 characters)
+modules/relevant_functions/functions.py:654:25: E225 missing whitespace around operator
+modules/relevant_functions/functions.py:654:80: E501 line too long (120 > 79 characters)
+modules/relevant_functions/functions.py:657:80: E501 line too long (86 > 79 characters)
+modules/relevant_functions/functions.py:661:80: E501 line too long (84 > 79 characters)
+modules/relevant_functions/functions.py:662:80: E501 line too long (121 > 79 characters)
+modules/relevant_functions/functions.py:670:61: E231 missing whitespace after ':'
+modules/relevant_functions/functions.py:670:71: E231 missing whitespace after ','
+modules/relevant_functions/functions.py:670:80: E501 line too long (273 > 79 characters)
+modules/relevant_functions/functions.py:670:81: E231 missing whitespace after ':'
+modules/relevant_functions/functions.py:670:96: E231 missing whitespace after ','
+modules/relevant_functions/functions.py:670:113: E231 missing whitespace after ','
+modules/relevant_functions/functions.py:670:136: E231 missing whitespace after ','
+modules/relevant_functions/functions.py:675:61: E231 missing whitespace after ':'
+modules/relevant_functions/functions.py:675:69: E231 missing whitespace after ','
+modules/relevant_functions/functions.py:675:79: E231 missing whitespace after ':'
+modules/relevant_functions/functions.py:675:80: E501 line too long (151 > 79 characters)
+modules/search_functions/__init__.py:27:80: E501 line too long (92 > 79 characters)
+modules/search_functions/functions.py:22:80: E501 line too long (90 > 79 characters)
+modules/search_functions/functions.py:24:80: E501 line too long (81 > 79 characters)
+modules/search_functions/functions.py:52:1: W293 blank line contains whitespace
+modules/search_functions/functions.py:54:1: W293 blank line contains whitespace
+modules/search_functions/functions.py:58:1: W293 blank line contains whitespace
+modules/search_functions/functions.py:64:1: W293 blank line contains whitespace
+modules/search_functions/functions.py:69:1: W293 blank line contains whitespace
+modules/search_functions/functions.py:76:1: W293 blank line contains whitespace
+modules/search_functions/functions.py:84:1: W293 blank line contains whitespace
+modules/search_functions/functions.py:88:1: W293 blank line contains whitespace
+modules/search_functions/functions.py:150:80: E501 line too long (80 > 79 characters)
+modules/search_functions/functions.py:183:80: E501 line too long (86 > 79 characters)
+modules/search_functions/functions.py:192:5: F841 local variable 'e' is assigned to but never used
+modules/template_functions.py:3:80: E501 line too long (82 > 79 characters)
+modules/template_functions.py:9:80: E501 line too long (80 > 79 characters)
+modules/template_functions.py:32:80: E501 line too long (82 > 79 characters)
+modules/template_functions.py:38:80: E501 line too long (82 > 79 characters)
+modules/template_functions.py:47:80: E501 line too long (80 > 79 characters)
+modules/test_functions/functions.py:6:1: F401 'json' imported but unused
+modules/test_functions/functions.py:34:80: E501 line too long (86 > 79 characters)
+modules/test_functions/functions.py:35:80: E501 line too long (83 > 79 characters)
+modules/test_functions/functions.py:38:80: E501 line too long (154 > 79 characters)
+utils/logger.py:8:1: F401 'datetime.datetime' imported but unused
+utils/logger.py:73:80: E501 line too long (80 > 79 characters)
+2     E201 whitespace after '('
+2     E225 missing whitespace around operator
+30    E231 missing whitespace after ','
+2     E302 expected 2 blank lines, found 1
+2     E303 too many blank lines (3)
+2     E305 expected 2 blank lines after class or function definition, found 0
+6     E402 module level import not at top of file
+275   E501 line too long (90 > 79 characters)
+7     F401 'typing.Any' imported but unused
+3     F811 redefinition of unused 'register_routes' from line 17
+3     F841 local variable 'ns' is assigned to but never used
+1     W291 trailing whitespace
+1     W292 no newline at end of file
+10    W293 blank line contains whitespace
