@@ -1,0 +1,529 @@
+************* Module modules.template_functions
+modules/template_functions.py:16:0: E0401: Unable to import 'modules.functions' (import-error)
+modules/template_functions.py:33:4: C0103: Function name "YourFunction1" doesn't conform to snake_case naming style (invalid-name)
+modules/template_functions.py:39:4: C0103: Function name "YourFunction2" doesn't conform to snake_case naming style (invalid-name)
+************* Module modules.relevant_functions.functions
+modules/relevant_functions/functions.py:7:0: C0301: Line too long (101/100) (line-too-long)
+modules/relevant_functions/functions.py:57:0: C0301: Line too long (142/100) (line-too-long)
+modules/relevant_functions/functions.py:74:0: C0301: Line too long (101/100) (line-too-long)
+modules/relevant_functions/functions.py:77:0: C0301: Line too long (115/100) (line-too-long)
+modules/relevant_functions/functions.py:88:0: C0301: Line too long (123/100) (line-too-long)
+modules/relevant_functions/functions.py:90:0: C0301: Line too long (144/100) (line-too-long)
+modules/relevant_functions/functions.py:357:0: C0301: Line too long (216/100) (line-too-long)
+modules/relevant_functions/functions.py:412:0: C0301: Line too long (103/100) (line-too-long)
+modules/relevant_functions/functions.py:421:0: C0301: Line too long (101/100) (line-too-long)
+modules/relevant_functions/functions.py:452:0: C0301: Line too long (173/100) (line-too-long)
+modules/relevant_functions/functions.py:466:0: C0301: Line too long (107/100) (line-too-long)
+modules/relevant_functions/functions.py:467:0: C0301: Line too long (110/100) (line-too-long)
+modules/relevant_functions/functions.py:470:0: C0301: Line too long (158/100) (line-too-long)
+modules/relevant_functions/functions.py:519:0: C0301: Line too long (133/100) (line-too-long)
+modules/relevant_functions/functions.py:601:0: C0301: Line too long (145/100) (line-too-long)
+modules/relevant_functions/functions.py:605:0: C0301: Line too long (153/100) (line-too-long)
+modules/relevant_functions/functions.py:615:0: C0301: Line too long (207/100) (line-too-long)
+modules/relevant_functions/functions.py:620:0: C0301: Line too long (138/100) (line-too-long)
+modules/relevant_functions/functions.py:622:0: C0301: Line too long (176/100) (line-too-long)
+modules/relevant_functions/functions.py:633:0: C0301: Line too long (107/100) (line-too-long)
+modules/relevant_functions/functions.py:654:0: C0301: Line too long (120/100) (line-too-long)
+modules/relevant_functions/functions.py:662:0: C0301: Line too long (121/100) (line-too-long)
+modules/relevant_functions/functions.py:670:0: C0301: Line too long (273/100) (line-too-long)
+modules/relevant_functions/functions.py:675:0: C0301: Line too long (151/100) (line-too-long)
+modules/relevant_functions/functions.py:37:7: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/relevant_functions/functions.py:49:15: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/relevant_functions/functions.py:94:11: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/relevant_functions/functions.py:100:0: R0914: Too many local variables (23/15) (too-many-locals)
+modules/relevant_functions/functions.py:229:11: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/relevant_functions/functions.py:175:15: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/relevant_functions/functions.py:212:19: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/relevant_functions/functions.py:224:19: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/relevant_functions/functions.py:100:0: R0912: Too many branches (20/12) (too-many-branches)
+modules/relevant_functions/functions.py:100:0: R0915: Too many statements (63/50) (too-many-statements)
+modules/relevant_functions/functions.py:249:19: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/relevant_functions/functions.py:252:12: R1731: Consider using 'max_pos = max(max_pos, p_int)' instead of unnecessary if block (consider-using-max-builtin)
+modules/relevant_functions/functions.py:305:11: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/relevant_functions/functions.py:308:15: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/relevant_functions/functions.py:325:19: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/relevant_functions/functions.py:330:15: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/relevant_functions/functions.py:263:0: R0912: Too many branches (20/12) (too-many-branches)
+modules/relevant_functions/functions.py:263:0: R0915: Too many statements (51/50) (too-many-statements)
+modules/relevant_functions/functions.py:337:0: R0914: Too many local variables (21/15) (too-many-locals)
+modules/relevant_functions/functions.py:380:8: W0707: Consider explicitly re-raising using 'raise RuntimeError(f'Pinecone REST request failed: {e}') from e' (raise-missing-from)
+modules/relevant_functions/functions.py:386:15: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/relevant_functions/functions.py:395:8: W0707: Consider explicitly re-raising using 'except Exception as exc' and 'raise RuntimeError('Pinecone REST returned non-json response') from exc' (raise-missing-from)
+modules/relevant_functions/functions.py:414:27: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/relevant_functions/functions.py:447:15: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/relevant_functions/functions.py:337:0: R0912: Too many branches (15/12) (too-many-branches)
+modules/relevant_functions/functions.py:337:0: R0915: Too many statements (60/50) (too-many-statements)
+modules/relevant_functions/functions.py:452:0: C0103: Function name "getVectorById" doesn't conform to snake_case naming style (invalid-name)
+modules/relevant_functions/functions.py:452:0: R0914: Too many local variables (17/15) (too-many-locals)
+modules/relevant_functions/functions.py:497:8: W0707: Consider explicitly re-raising using 'raise RuntimeError(f'Pinecone REST vectors/fetch request failed: {e}') from e' (raise-missing-from)
+modules/relevant_functions/functions.py:503:15: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/relevant_functions/functions.py:512:8: W0707: Consider explicitly re-raising using 'except Exception as exc' and 'raise RuntimeError('Pinecone REST vectors/fetch returned non-json response') from exc' (raise-missing-from)
+modules/relevant_functions/functions.py:452:0: R0912: Too many branches (15/12) (too-many-branches)
+modules/relevant_functions/functions.py:534:0: C0103: Function name "mapVectorsToReferred" doesn't conform to snake_case naming style (invalid-name)
+modules/relevant_functions/functions.py:577:19: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/relevant_functions/functions.py:585:0: C0116: Missing function or method docstring (missing-function-docstring)
+modules/relevant_functions/functions.py:585:0: C0103: Function name "getRelevantWorks" doesn't conform to snake_case naming style (invalid-name)
+modules/relevant_functions/functions.py:585:0: R0914: Too many local variables (23/15) (too-many-locals)
+modules/relevant_functions/functions.py:672:11: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/relevant_functions/functions.py:590:15: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/relevant_functions/functions.py:597:15: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/relevant_functions/functions.py:621:15: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/relevant_functions/functions.py:666:15: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/relevant_functions/functions.py:585:0: R0911: Too many return statements (7/6) (too-many-return-statements)
+modules/relevant_functions/functions.py:585:0: R0915: Too many statements (53/50) (too-many-statements)
+modules/relevant_functions/functions.py:21:0: C0411: standard import "traceback" should be placed before third party import "requests" (wrong-import-order)
+modules/relevant_functions/functions.py:22:0: C0411: standard import "typing.Any" should be placed before third party import "requests" (wrong-import-order)
+modules/relevant_functions/functions.py:25:0: C0411: standard import "copy.deepcopy" should be placed before third party imports "requests", "azure.functions" and first party import "utils.logger.get_logger"  (wrong-import-order)
+************* Module modules.relevant_functions.__init__
+modules/relevant_functions/__init__.py:26:0: C0301: Line too long (158/100) (line-too-long)
+************* Module modules.relevant_functions
+modules/relevant_functions/__init__.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+modules/relevant_functions/__init__.py:23:15: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/relevant_functions/__init__.py:21:12: C0415: Import outside toplevel (functions.getRelevantWorks) (import-outside-toplevel)
+modules/relevant_functions/__init__.py:10:0: R1711: Useless return at end of function or method (useless-return)
+************* Module modules.test_functions.functions
+modules/test_functions/functions.py:38:0: C0301: Line too long (154/100) (line-too-long)
+modules/test_functions/functions.py:29:12: W0107: Unnecessary pass statement (unnecessary-pass)
+modules/test_functions/functions.py:33:4: R1705: Unnecessary "else" after "return", remove the "else" and de-indent the code inside it (no-else-return)
+modules/test_functions/functions.py:6:0: W0611: Unused import json (unused-import)
+************* Module modules.test_functions
+modules/test_functions/__init__.py:26:4: C0103: Function name "HelloTestFunction" doesn't conform to snake_case naming style (invalid-name)
+************* Module modules.cite_functions.functions
+modules/cite_functions/functions.py:75:0: C0301: Line too long (120/100) (line-too-long)
+modules/cite_functions/functions.py:248:0: C0301: Line too long (110/100) (line-too-long)
+modules/cite_functions/functions.py:268:0: C0301: Line too long (125/100) (line-too-long)
+modules/cite_functions/functions.py:294:0: C0301: Line too long (114/100) (line-too-long)
+modules/cite_functions/functions.py:389:0: C0301: Line too long (179/100) (line-too-long)
+modules/cite_functions/functions.py:523:0: C0301: Line too long (105/100) (line-too-long)
+modules/cite_functions/functions.py:576:0: C0301: Line too long (125/100) (line-too-long)
+modules/cite_functions/functions.py:592:0: C0301: Line too long (123/100) (line-too-long)
+modules/cite_functions/functions.py:174:4: W0612: Unused variable 'ns' (unused-variable)
+modules/cite_functions/functions.py:242:11: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/cite_functions/functions.py:260:11: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/cite_functions/functions.py:315:11: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/cite_functions/functions.py:379:11: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/cite_functions/functions.py:398:11: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/cite_functions/functions.py:403:0: R0914: Too many local variables (32/15) (too-many-locals)
+modules/cite_functions/functions.py:565:11: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/cite_functions/functions.py:480:0: C0206: Consider iterating with .items() (consider-using-dict-items)
+modules/cite_functions/functions.py:515:0: C0206: Consider iterating with .items() (consider-using-dict-items)
+modules/cite_functions/functions.py:403:0: R0912: Too many branches (13/12) (too-many-branches)
+modules/cite_functions/functions.py:403:0: R0915: Too many statements (61/50) (too-many-statements)
+modules/cite_functions/functions.py:519:8: W0612: Unused variable 'primary' (unused-variable)
+modules/cite_functions/functions.py:585:11: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/cite_functions/functions.py:601:11: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/cite_functions/functions.py:666:11: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/cite_functions/functions.py:675:0: R0914: Too many local variables (16/15) (too-many-locals)
+modules/cite_functions/functions.py:744:11: W0718: Catching too general exception Exception (broad-exception-caught)
+************* Module modules.cite_functions
+modules/cite_functions/__init__.py:23:4: C0415: Import outside toplevel (functions.get_references, functions.get_referred_by, functions.lookup_doi) (import-outside-toplevel)
+modules/cite_functions/__init__.py:26:4: C0103: Function name "CiteLookup" doesn't conform to snake_case naming style (invalid-name)
+modules/cite_functions/__init__.py:33:4: C0103: Function name "CiteGetReference" doesn't conform to snake_case naming style (invalid-name)
+modules/cite_functions/__init__.py:39:4: C0103: Function name "CiteGetReferences" doesn't conform to snake_case naming style (invalid-name)
+modules/cite_functions/__init__.py:45:4: C0103: Function name "CiteGetReferredBy" doesn't conform to snake_case naming style (invalid-name)
+modules/cite_functions/__init__.py:51:4: C0103: Function name "CiteGetReferedBy" doesn't conform to snake_case naming style (invalid-name)
+************* Module modules.search_functions.functions
+modules/search_functions/functions.py:52:0: C0303: Trailing whitespace (trailing-whitespace)
+modules/search_functions/functions.py:54:0: C0303: Trailing whitespace (trailing-whitespace)
+modules/search_functions/functions.py:58:0: C0303: Trailing whitespace (trailing-whitespace)
+modules/search_functions/functions.py:64:0: C0303: Trailing whitespace (trailing-whitespace)
+modules/search_functions/functions.py:69:0: C0303: Trailing whitespace (trailing-whitespace)
+modules/search_functions/functions.py:76:0: C0303: Trailing whitespace (trailing-whitespace)
+modules/search_functions/functions.py:84:0: C0303: Trailing whitespace (trailing-whitespace)
+modules/search_functions/functions.py:88:0: C0303: Trailing whitespace (trailing-whitespace)
+modules/search_functions/functions.py:94:11: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/search_functions/functions.py:21:0: R0912: Too many branches (16/12) (too-many-branches)
+modules/search_functions/functions.py:106:0: R0914: Too many local variables (17/15) (too-many-locals)
+modules/search_functions/functions.py:192:11: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/search_functions/functions.py:117:15: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/search_functions/functions.py:156:15: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/search_functions/functions.py:166:19: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/search_functions/functions.py:193:8: E1123: Unexpected keyword argument 'exc_info' in method call (unexpected-keyword-arg)
+modules/search_functions/functions.py:106:0: R0912: Too many branches (16/12) (too-many-branches)
+modules/search_functions/functions.py:192:4: W0612: Unused variable 'e' (unused-variable)
+************* Module modules.search_functions
+modules/search_functions/__init__.py:26:4: C0103: Function name "CiteSearch" doesn't conform to snake_case naming style (invalid-name)
+************* Module modules.communityDetection.functions
+modules/communityDetection/functions.py:84:0: C0301: Line too long (193/100) (line-too-long)
+modules/communityDetection/functions.py:105:0: C0301: Line too long (168/100) (line-too-long)
+modules/communityDetection/functions.py:144:0: C0301: Line too long (228/100) (line-too-long)
+modules/communityDetection/functions.py:149:0: C0301: Line too long (154/100) (line-too-long)
+modules/communityDetection/functions.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+modules/communityDetection/functions.py:18:15: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/communityDetection/functions.py:21:19: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/communityDetection/functions.py:42:11: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/communityDetection/functions.py:46:0: C0115: Missing class docstring (missing-class-docstring)
+modules/communityDetection/functions.py:50:4: C0116: Missing function or method docstring (missing-function-docstring)
+modules/communityDetection/functions.py:59:4: C0116: Missing function or method docstring (missing-function-docstring)
+modules/communityDetection/functions.py:67:0: C0103: Function name "detectCommunities" doesn't conform to snake_case naming style (invalid-name)
+modules/communityDetection/functions.py:67:0: R0914: Too many local variables (27/15) (too-many-locals)
+modules/communityDetection/functions.py:146:11: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/communityDetection/functions.py:79:15: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/communityDetection/functions.py:90:15: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/communityDetection/functions.py:117:8: C0200: Consider using enumerate instead of iterating with range and len (consider-using-enumerate)
+modules/communityDetection/functions.py:67:0: R0912: Too many branches (16/12) (too-many-branches)
+************* Module modules.communityDetection.__init__
+modules/communityDetection/__init__.py:26:0: C0301: Line too long (158/100) (line-too-long)
+************* Module modules.communityDetection
+modules/communityDetection/__init__.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+modules/communityDetection/__init__.py:1:0: C0103: Module name "communityDetection" doesn't conform to snake_case naming style (invalid-name)
+modules/communityDetection/__init__.py:23:15: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/communityDetection/__init__.py:21:12: C0415: Import outside toplevel (functions.detectCommunities) (import-outside-toplevel)
+modules/communityDetection/__init__.py:10:0: R1711: Useless return at end of function or method (useless-return)
+************* Module modules.process_functions.functions
+modules/process_functions/functions.py:3:0: C0301: Line too long (114/100) (line-too-long)
+modules/process_functions/functions.py:11:0: C0301: Line too long (101/100) (line-too-long)
+modules/process_functions/functions.py:79:0: C0301: Line too long (153/100) (line-too-long)
+modules/process_functions/functions.py:84:0: C0301: Line too long (105/100) (line-too-long)
+modules/process_functions/functions.py:90:0: C0301: Line too long (102/100) (line-too-long)
+modules/process_functions/functions.py:95:0: C0301: Line too long (107/100) (line-too-long)
+modules/process_functions/functions.py:99:0: C0301: Line too long (131/100) (line-too-long)
+modules/process_functions/functions.py:101:0: C0301: Line too long (107/100) (line-too-long)
+modules/process_functions/functions.py:105:0: C0301: Line too long (101/100) (line-too-long)
+modules/process_functions/functions.py:139:0: C0301: Line too long (143/100) (line-too-long)
+modules/process_functions/functions.py:143:0: C0301: Line too long (131/100) (line-too-long)
+modules/process_functions/functions.py:173:0: C0301: Line too long (102/100) (line-too-long)
+modules/process_functions/functions.py:193:0: C0301: Line too long (123/100) (line-too-long)
+modules/process_functions/functions.py:197:0: C0301: Line too long (106/100) (line-too-long)
+modules/process_functions/functions.py:226:0: C0301: Line too long (113/100) (line-too-long)
+modules/process_functions/functions.py:250:0: C0301: Line too long (105/100) (line-too-long)
+modules/process_functions/functions.py:367:0: C0301: Line too long (118/100) (line-too-long)
+modules/process_functions/functions.py:384:0: C0301: Line too long (104/100) (line-too-long)
+modules/process_functions/functions.py:434:0: C0301: Line too long (104/100) (line-too-long)
+modules/process_functions/functions.py:443:0: C0301: Line too long (109/100) (line-too-long)
+modules/process_functions/functions.py:470:0: C0301: Line too long (108/100) (line-too-long)
+modules/process_functions/functions.py:479:0: C0301: Line too long (186/100) (line-too-long)
+modules/process_functions/functions.py:492:0: C0301: Line too long (105/100) (line-too-long)
+modules/process_functions/functions.py:493:0: C0301: Line too long (159/100) (line-too-long)
+modules/process_functions/functions.py:495:0: C0301: Line too long (113/100) (line-too-long)
+modules/process_functions/functions.py:496:0: C0301: Line too long (183/100) (line-too-long)
+modules/process_functions/functions.py:500:0: C0301: Line too long (156/100) (line-too-long)
+modules/process_functions/functions.py:509:0: C0301: Line too long (110/100) (line-too-long)
+modules/process_functions/functions.py:510:0: C0301: Line too long (127/100) (line-too-long)
+modules/process_functions/functions.py:512:0: C0301: Line too long (133/100) (line-too-long)
+modules/process_functions/functions.py:531:0: C0301: Line too long (110/100) (line-too-long)
+modules/process_functions/functions.py:533:0: C0301: Line too long (121/100) (line-too-long)
+modules/process_functions/functions.py:548:0: C0301: Line too long (106/100) (line-too-long)
+modules/process_functions/functions.py:550:0: C0301: Line too long (121/100) (line-too-long)
+modules/process_functions/functions.py:559:0: C0301: Line too long (176/100) (line-too-long)
+modules/process_functions/functions.py:561:0: C0301: Line too long (104/100) (line-too-long)
+modules/process_functions/functions.py:568:0: C0303: Trailing whitespace (trailing-whitespace)
+modules/process_functions/functions.py:574:0: C0301: Line too long (112/100) (line-too-long)
+modules/process_functions/functions.py:579:0: C0301: Line too long (105/100) (line-too-long)
+modules/process_functions/functions.py:581:0: C0301: Line too long (107/100) (line-too-long)
+modules/process_functions/functions.py:586:0: C0301: Line too long (113/100) (line-too-long)
+modules/process_functions/functions.py:600:0: C0301: Line too long (119/100) (line-too-long)
+modules/process_functions/functions.py:636:0: C0301: Line too long (149/100) (line-too-long)
+modules/process_functions/functions.py:637:0: C0301: Line too long (204/100) (line-too-long)
+modules/process_functions/functions.py:42:7: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/process_functions/functions.py:49:0: C0115: Missing class docstring (missing-class-docstring)
+modules/process_functions/functions.py:53:4: C0116: Missing function or method docstring (missing-function-docstring)
+modules/process_functions/functions.py:57:4: C0116: Missing function or method docstring (missing-function-docstring)
+modules/process_functions/functions.py:57:40: W0613: Unused argument 'ex' (unused-argument)
+modules/process_functions/functions.py:62:0: C0115: Missing class docstring (missing-class-docstring)
+modules/process_functions/functions.py:66:4: C0116: Missing function or method docstring (missing-function-docstring)
+modules/process_functions/functions.py:70:4: C0116: Missing function or method docstring (missing-function-docstring)
+modules/process_functions/functions.py:127:42: C0103: Argument name "requestFor" doesn't conform to snake_case naming style (invalid-name)
+modules/process_functions/functions.py:141:11: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/process_functions/functions.py:172:11: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/process_functions/functions.py:169:19: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/process_functions/functions.py:190:11: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/process_functions/functions.py:191:8: W0404: Reimport 'traceback' (imported line 29) (reimported)
+modules/process_functions/functions.py:191:8: C0415: Import outside toplevel (traceback) (import-outside-toplevel)
+modules/process_functions/functions.py:197:37: C0103: Argument name "requestFor" doesn't conform to snake_case naming style (invalid-name)
+modules/process_functions/functions.py:197:0: R0914: Too many local variables (26/15) (too-many-locals)
+modules/process_functions/functions.py:428:11: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/process_functions/functions.py:285:19: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/process_functions/functions.py:310:27: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/process_functions/functions.py:328:19: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/process_functions/functions.py:280:4: R1702: Too many nested blocks (6/5) (too-many-nested-blocks)
+modules/process_functions/functions.py:424:23: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/process_functions/functions.py:197:0: R0911: Too many return statements (8/6) (too-many-return-statements)
+modules/process_functions/functions.py:197:0: R0912: Too many branches (32/12) (too-many-branches)
+modules/process_functions/functions.py:197:0: R0915: Too many statements (110/50) (too-many-statements)
+modules/process_functions/functions.py:433:40: C0103: Argument name "requestFor" doesn't conform to snake_case naming style (invalid-name)
+modules/process_functions/functions.py:450:11: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/process_functions/functions.py:454:46: C0103: Argument name "requestFor" doesn't conform to snake_case naming style (invalid-name)
+modules/process_functions/functions.py:454:0: R0914: Too many local variables (25/15) (too-many-locals)
+modules/process_functions/functions.py:629:11: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/process_functions/functions.py:471:15: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/process_functions/functions.py:484:15: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/process_functions/functions.py:488:15: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/process_functions/functions.py:583:23: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/process_functions/functions.py:584:20: W0404: Reimport 'traceback' (imported line 29) (reimported)
+modules/process_functions/functions.py:584:20: C0415: Import outside toplevel (traceback) (import-outside-toplevel)
+modules/process_functions/functions.py:460:4: R1702: Too many nested blocks (6/5) (too-many-nested-blocks)
+modules/process_functions/functions.py:634:15: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/process_functions/functions.py:454:0: R0911: Too many return statements (11/6) (too-many-return-statements)
+modules/process_functions/functions.py:454:0: R0912: Too many branches (26/12) (too-many-branches)
+modules/process_functions/functions.py:454:0: R0915: Too many statements (86/50) (too-many-statements)
+modules/process_functions/functions.py:454:0: R1710: Either all return statements in a function should return an expression, or none of them should. (inconsistent-return-statements)
+modules/process_functions/functions.py:640:0: C0103: Function name "getReferences" doesn't conform to snake_case naming style (invalid-name)
+modules/process_functions/functions.py:645:0: C0103: Function name "getCitating" doesn't conform to snake_case naming style (invalid-name)
+modules/process_functions/functions.py:26:0: C0411: standard import "typing.Any" should be placed before third party import "requests" (wrong-import-order)
+modules/process_functions/functions.py:29:0: C0411: standard import "traceback" should be placed before third party imports "requests", "azure.functions" and first party import "utils.logger.get_logger"  (wrong-import-order)
+modules/process_functions/functions.py:30:0: C0411: standard import "datetime.datetime" should be placed before third party imports "requests", "azure.functions" and first party import "utils.logger.get_logger"  (wrong-import-order)
+modules/process_functions/functions.py:31:0: C0411: standard import "copy.deepcopy" should be placed before third party imports "requests", "azure.functions" and first party import "utils.logger.get_logger"  (wrong-import-order)
+modules/process_functions/functions.py:32:0: C0411: standard import "urllib.parse.quote_plus" should be placed before third party imports "requests", "azure.functions" and first party import "utils.logger.get_logger"  (wrong-import-order)
+modules/process_functions/functions.py:30:0: W0611: Unused datetime imported from datetime (unused-import)
+************* Module modules.process_functions.__init__
+modules/process_functions/__init__.py:41:0: C0301: Line too long (208/100) (line-too-long)
+modules/process_functions/__init__.py:56:0: C0301: Line too long (208/100) (line-too-long)
+modules/process_functions/__init__.py:116:0: C0304: Final newline missing (missing-final-newline)
+************* Module modules.process_functions
+modules/process_functions/__init__.py:38:15: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/process_functions/__init__.py:34:19: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/process_functions/__init__.py:53:15: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/process_functions/__init__.py:49:19: W0718: Catching too general exception Exception (broad-exception-caught)
+modules/process_functions/__init__.py:61:0: C0413: Import "from .functions import getReferences, getCitating" should be placed at the top of the module (wrong-import-position)
+modules/process_functions/__init__.py:62:0: W0404: Reimport 'azure.functions' (imported line 8) (reimported)
+modules/process_functions/__init__.py:62:0: C0413: Import "import azure.functions as func" should be placed at the top of the module (wrong-import-position)
+modules/process_functions/__init__.py:63:0: W0404: Reimport 'get_logger' (imported line 9) (reimported)
+modules/process_functions/__init__.py:63:0: C0413: Import "from utils.logger import get_logger" should be placed at the top of the module (wrong-import-position)
+modules/process_functions/__init__.py:67:0: E0102: function already defined line 17 (function-redefined)
+modules/process_functions/__init__.py:67:20: W0613: Unused argument 'app' (unused-argument)
+modules/process_functions/__init__.py:75:0: W0105: String statement has no effect (pointless-string-statement)
+modules/process_functions/__init__.py:82:0: W0404: Reimport 'azure.functions' (imported line 8) (reimported)
+modules/process_functions/__init__.py:82:0: C0413: Import "import azure.functions as func" should be placed at the top of the module (wrong-import-position)
+modules/process_functions/__init__.py:83:0: W0404: Reimport 'get_logger' (imported line 9) (reimported)
+modules/process_functions/__init__.py:83:0: C0413: Import "from utils.logger import get_logger" should be placed at the top of the module (wrong-import-position)
+modules/process_functions/__init__.py:86:0: C0413: Import "from . import functions as _impl" should be placed at the top of the module (wrong-import-position)
+modules/process_functions/__init__.py:91:0: E0102: function already defined line 17 (function-redefined)
+modules/process_functions/__init__.py:62:0: C0411: third party import "azure.functions" should be placed before first party import "utils.logger.get_logger" and local imports ".functions", "functions.getReferences" (wrong-import-order)
+modules/process_functions/__init__.py:63:0: C0411: first party import "utils.logger.get_logger" should be placed before local imports ".functions", "functions.getReferences" (wrong-import-order)
+modules/process_functions/__init__.py:82:0: C0411: third party import "azure.functions" should be placed before first party imports "utils.logger.get_logger", "utils.logger.get_logger" and local imports ".functions", "functions.getReferences" (wrong-import-order)
+modules/process_functions/__init__.py:83:0: C0411: first party import "utils.logger.get_logger" should be placed before local imports ".functions", "functions.getReferences" (wrong-import-order)
+modules/process_functions/__init__.py:62:0: C0412: Imports from package azure are not grouped (ungrouped-imports)
+modules/process_functions/__init__.py:63:0: C0412: Imports from package utils are not grouped (ungrouped-imports)
+modules/process_functions/__init__.py:82:0: C0412: Imports from package azure are not grouped (ungrouped-imports)
+modules/process_functions/__init__.py:83:0: C0412: Imports from package utils are not grouped (ungrouped-imports)
+************* Module utils.logger
+utils/logger.py:8:0: W0611: Unused datetime imported from datetime (unused-import)
+utils/logger.py:1:0: R0801: Similar lines in 2 files
+==modules.process_functions.functions:[35:45]
+==modules.relevant_functions.functions:[30:41]
+_LOCAL_CONFIG = {}
+_CONFIG_PATH = os.path.join(os.path.dirname(__file__), 'config.json')
+try:
+    if os.path.exists(_CONFIG_PATH):
+        with open(_CONFIG_PATH, 'r', encoding='utf-8') as _f:
+            _LOCAL_CONFIG = json.load(_f)
+except Exception:
+    # ignore and keep defaults
+    _LOCAL_CONFIG = {}
+ (duplicate-code)
+utils/logger.py:1:0: R0801: Similar lines in 2 files
+==modules.communityDetection.functions:[74:82]
+==modules.relevant_functions.functions:[585:592]
+    try:
+        body = {}
+        try:
+            body = req.get_json()
+        except Exception:
+            body = {}
+ (duplicate-code)
+
+
+Report
+======
+1583 statements analysed.
+
+Statistics by type
+------------------
+
++---------+-------+-----------+-----------+------------+---------+
+|type     |number |old number |difference |%documented |%badname |
++=========+=======+===========+===========+============+=========+
+|module   |16     |16         |=          |81.25       |6.25     |
++---------+-------+-----------+-----------+------------+---------+
+|class    |4      |4          |=          |25.00       |0.00     |
++---------+-------+-----------+-----------+------------+---------+
+|method   |15     |15         |=          |60.00       |0.00     |
++---------+-------+-----------+-----------+------------+---------+
+|function |76     |76         |=          |98.68       |19.74    |
++---------+-------+-----------+-----------+------------+---------+
+
+
+
+External dependencies
+---------------------
+::
+
+    azure 
+      \-functions (modules.cite_functions,modules.cite_functions.functions,modules.communityDetection,modules.communityDetection.functions,modules.process_functions,modules.process_functions.functions,modules.relevant_functions,modules.relevant_functions.functions,modules.search_functions,modules.search_functions.functions,modules.template_functions,modules.test_functions,modules.test_functions.functions)
+    modules 
+      \-cite_functions 
+        \-functions (modules.search_functions.functions)
+    requests (modules.cite_functions.functions,modules.process_functions.functions,modules.relevant_functions.functions,modules.search_functions.functions)
+    utils 
+      \-logger (modules.cite_functions,modules.cite_functions.functions,modules.communityDetection,modules.communityDetection.functions,modules.process_functions,modules.process_functions.functions,modules.relevant_functions,modules.relevant_functions.functions,modules.search_functions,modules.search_functions.functions,modules.template_functions,modules.test_functions,modules.test_functions.functions)
+
+
+
+2913 lines have been analyzed
+
+Raw metrics
+-----------
+
++----------+-------+------+---------+-----------+
+|type      |number |%     |previous |difference |
++==========+=======+======+=========+===========+
+|code      |1811   |62.17 |1811     |=          |
++----------+-------+------+---------+-----------+
+|docstring |460    |15.79 |460      |=          |
++----------+-------+------+---------+-----------+
+|comment   |245    |8.41  |245      |=          |
++----------+-------+------+---------+-----------+
+|empty     |397    |13.63 |397      |=          |
++----------+-------+------+---------+-----------+
+
+
+
+Duplication
+-----------
+
++-------------------------+------+---------+-----------+
+|                         |now   |previous |difference |
++=========================+======+=========+===========+
+|nb duplicated lines      |0     |0        |0          |
++-------------------------+------+---------+-----------+
+|percent duplicated lines |0.000 |0.000    |=          |
++-------------------------+------+---------+-----------+
+
+
+
+Messages by category
+--------------------
+
++-----------+-------+---------+-----------+
+|type       |number |previous |difference |
++===========+=======+=========+===========+
+|convention |157    |157      |157        |
++-----------+-------+---------+-----------+
+|refactor   |39     |39       |39         |
++-----------+-------+---------+-----------+
+|warning    |86     |86       |86         |
++-----------+-------+---------+-----------+
+|error      |4      |4        |4          |
++-----------+-------+---------+-----------+
+
+
+
+% errors / warnings by module
+-----------------------------
+
++-------------------------------------+------+--------+---------+-----------+
+|module                               |error |warning |refactor |convention |
++=====================================+======+========+=========+===========+
+|modules.process_functions.__init__   |50.00 |11.63   |0.00     |10.83      |
++-------------------------------------+------+--------+---------+-----------+
+|modules.search_functions.functions   |25.00 |6.98    |7.69     |5.10       |
++-------------------------------------+------+--------+---------+-----------+
+|modules.template_functions           |25.00 |0.00    |0.00     |1.27       |
++-------------------------------------+------+--------+---------+-----------+
+|modules.relevant_functions.functions |0.00  |30.23   |35.90    |19.75      |
++-------------------------------------+------+--------+---------+-----------+
+|modules.process_functions.functions  |0.00  |24.42   |28.21    |40.13      |
++-------------------------------------+------+--------+---------+-----------+
+|modules.cite_functions.functions     |0.00  |13.95   |10.26    |6.37       |
++-------------------------------------+------+--------+---------+-----------+
+|modules.communityDetection.functions |0.00  |6.98    |5.13     |6.37       |
++-------------------------------------+------+--------+---------+-----------+
+|modules.test_functions.functions     |0.00  |2.33    |2.56     |0.64       |
++-------------------------------------+------+--------+---------+-----------+
+|utils.logger                         |0.00  |1.16    |5.13     |0.00       |
++-------------------------------------+------+--------+---------+-----------+
+|modules.communityDetection.__init__  |0.00  |1.16    |2.56     |2.55       |
++-------------------------------------+------+--------+---------+-----------+
+|modules.relevant_functions.__init__  |0.00  |1.16    |2.56     |1.91       |
++-------------------------------------+------+--------+---------+-----------+
+|modules.cite_functions.__init__      |0.00  |0.00    |0.00     |3.82       |
++-------------------------------------+------+--------+---------+-----------+
+|modules.test_functions.__init__      |0.00  |0.00    |0.00     |0.64       |
++-------------------------------------+------+--------+---------+-----------+
+|modules.search_functions.__init__    |0.00  |0.00    |0.00     |0.64       |
++-------------------------------------+------+--------+---------+-----------+
+
+
+
+Messages
+--------
+
++-------------------------------+------------+
+|message id                     |occurrences |
++===============================+============+
+|line-too-long                  |84          |
++-------------------------------+------------+
+|broad-exception-caught         |66          |
++-------------------------------+------------+
+|invalid-name                   |20          |
++-------------------------------+------------+
+|wrong-import-order             |12          |
++-------------------------------+------------+
+|too-many-locals                |10          |
++-------------------------------+------------+
+|too-many-branches              |10          |
++-------------------------------+------------+
+|trailing-whitespace            |9           |
++-------------------------------+------------+
+|too-many-statements            |7           |
++-------------------------------+------------+
+|missing-function-docstring     |7           |
++-------------------------------+------------+
+|wrong-import-position          |6           |
++-------------------------------+------------+
+|reimported                     |6           |
++-------------------------------+------------+
+|import-outside-toplevel        |5           |
++-------------------------------+------------+
+|ungrouped-imports              |4           |
++-------------------------------+------------+
+|raise-missing-from             |4           |
++-------------------------------+------------+
+|unused-variable                |3           |
++-------------------------------+------------+
+|unused-import                  |3           |
++-------------------------------+------------+
+|too-many-return-statements     |3           |
++-------------------------------+------------+
+|missing-module-docstring       |3           |
++-------------------------------+------------+
+|missing-class-docstring        |3           |
++-------------------------------+------------+
+|useless-return                 |2           |
++-------------------------------+------------+
+|unused-argument                |2           |
++-------------------------------+------------+
+|too-many-nested-blocks         |2           |
++-------------------------------+------------+
+|function-redefined             |2           |
++-------------------------------+------------+
+|duplicate-code                 |2           |
++-------------------------------+------------+
+|consider-using-dict-items      |2           |
++-------------------------------+------------+
+|unnecessary-pass               |1           |
++-------------------------------+------------+
+|unexpected-keyword-arg         |1           |
++-------------------------------+------------+
+|pointless-string-statement     |1           |
++-------------------------------+------------+
+|no-else-return                 |1           |
++-------------------------------+------------+
+|missing-final-newline          |1           |
++-------------------------------+------------+
+|inconsistent-return-statements |1           |
++-------------------------------+------------+
+|import-error                   |1           |
++-------------------------------+------------+
+|consider-using-max-builtin     |1           |
++-------------------------------+------------+
+|consider-using-enumerate       |1           |
++-------------------------------+------------+
+
+
+
+
+------------------------------------------------------------------
+Your code has been rated at 8.09/10 (previous run: 8.09/10, +0.00)
+

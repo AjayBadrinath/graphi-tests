@@ -1,0 +1,27 @@
+{
+  "timestamp": "2025-11-16T04:00:02.067029",
+  "project": "GraphI Python Backend",
+  "analysis_results": {
+    "tests_coverage": true,
+    "pylint": true,
+    "flake8": true,
+    "bandit": true,
+    "safety": true,
+    "black": true,
+    "isort": true
+  },
+  "files_analyzed": [
+    "modules/search_functions/functions.py",
+    "modules/search_functions/__init__.py",
+    "modules/cite_functions/functions.py",
+    "modules/cite_functions/__init__.py",
+    "utils/logger.py"
+  ],
+  "recommendations": [
+    "Increase test coverage for cite_functions module",
+    "Fix any Pylint warnings in the report",
+    "Address Flake8 style issues",
+    "Review Bandit security findings",
+    "Update any vulnerable dependencies found by Safety"
+  ]
+}
