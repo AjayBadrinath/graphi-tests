@@ -1,0 +1,1 @@
+az functionapp create --resource-group krishaaggarwal.mit-rg --consumption-plan-location centralindia --runtime python --runtime-version 3.11 --functions-version 4 --name graphi --storage-account krishaml2651715204
